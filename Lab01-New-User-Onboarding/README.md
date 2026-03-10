@@ -47,9 +47,9 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Set an initial password and require password change at first sign-in
 
 ### Step 2: Assign a Microsoft 365 License
-- Assigned a Microsoft 365 license to the new user
-- Confirmed access to core productivity and collaboration services, including Microsoft Teams, Outlook, and Microsoft 365 apps
-- Reviewed the included services for a standard business onboarding scenario
+- Assign a Microsoft 365 license to the new user
+- Confirm access to core productivity and collaboration services, including Microsoft Teams, Outlook, and Microsoft 365 apps
+- Review the included services for a standard business onboarding scenario
 
 > Note: In a production environment, license services should be reviewed and adjusted according to the user’s job role and business requirements.
 
