@@ -66,6 +66,8 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 
 This step helps assign collaboration access and organize users based on their department or role.
 
+![Add User to Group](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/3_Add_User_To_Group.png)
+
 ### Step 4: Enable MFA
 - Enable MFA for the account
 - Confirm that the user will be prompted to register MFA during first sign-in
