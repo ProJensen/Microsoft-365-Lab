@@ -11,6 +11,12 @@ A small business has hired a new employee who needs access to Microsoft 365 serv
 As the IT administrator, I need to prepare the account and make sure the user can securely access the required services on their first day.
 
 ## Objectives
+- Create a new user account in Microsoft 365
+- Assign the appropriate license
+- Add the user to the correct group
+- Enable MFA for account security
+- Understand the basic user onboarding workflow
+- Practice documentation using a real-world admin scenario
 
 ## Tools and Services Used
 
