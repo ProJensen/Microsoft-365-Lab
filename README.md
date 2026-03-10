@@ -102,5 +102,5 @@ Microsoft-365-Lab/
 
 ## Author
 **Jenhon Sze**
-Aspiring IT Support
+
 This repository is part of my IT support and Microsoft 365 learning portfolio.
