@@ -50,6 +50,9 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Select the appropriate license for the employee
 - Confirm access to services such as Outlook, Teams, and OneDrive
 
+Why this step matters:
+Assigning the correct license ensures the user has access to the required Microsoft 365 services for their job role.
+
 ### Step 3: Add the User to the Appropriate Group
 - Add the user to the required Microsoft 365 group or security group
 - Verify that group membership supports the user's job role
