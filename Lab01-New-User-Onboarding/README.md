@@ -60,7 +60,7 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 
 ### Step 3: Add the User to the Appropriate Group
 - In the Microsoft 365 Admin Center, go to **Teams & groups** > **Active teams & groups**
-- Select the appropriate group for the employee, such as **Sales** or **All Employees**
+- Select the appropriate group for the employee, such as **Sales**
 - Open the group membership settings and add the new user
 - Verify that the user is now a member of the selected group
 
