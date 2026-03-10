@@ -46,6 +46,7 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Enter the employee's name, display name, and username
 - Set an initial password and require password change at first sign-in
 - Configure optional profile details such as job title, department, and location
+![New User Info](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/1_New_Users_Info.png)
 
 ### Step 2: Assign a Microsoft 365 License
 - Assign a Microsoft 365 license to the new user
