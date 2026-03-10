@@ -19,6 +19,12 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Practice documentation using a real-world admin scenario
 
 ## Tools and Services Used
+- Microsoft 365 Admin Center
+- Microsoft Entra Admin Center
+- Microsoft 365 user management
+- License assignment
+- Multi-Factor Authentication (MFA)
+- GitHub documentation
 
 ## Administrative Workflow
 
