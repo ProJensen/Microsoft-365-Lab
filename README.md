@@ -101,6 +101,6 @@ Microsoft-365-Lab/
 - [ ] Complete Lab 03 - MFA Enforcement
 
 ## Author
-Jenhon Sze
-
+**Jenhon Sze**
+Aspiring IT Support
 This repository is part of my IT support and Microsoft 365 learning portfolio.
