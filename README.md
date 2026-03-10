@@ -2,6 +2,18 @@
 
 A hands-on lab portfolio focused on Microsoft 365 administration, identity, security, and user management based on MS-102 learning topics.
 
+## Table of Contents
+- [Overview](#overview)
+- [Goals](#goals)
+- [Skills Covered](#skills-covered)
+- [Lab Projects](#lab-projects)
+- [Lab Environment](#lab-environment)
+- [Tools and Technologies](#tools-and-technologies)
+- [Key Learning Areas](#key-learning-areas)
+- [Repository Structure](#repository-structure)
+- [Progress Tracker](#progress-tracker)
+- [Author](#author)
+
 ## Overview
 This repository documents my Microsoft 365 administration lab projects based on MS-102 learning topics.
 
