@@ -26,6 +26,8 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Multi-Factor Authentication (MFA)
 - GitHub documentation
 
+> Note: This is a simulated lab project created for learning and portfolio purposes.
+
 ## Administrative Workflow
 
 ## Security Considerations
