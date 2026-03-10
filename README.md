@@ -39,13 +39,13 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 
 ## Lab Projects
 
-| Lab No. | Project Title | Status |
-|--------|---------------|--------|
-| 01 | [New User Onboarding in Microsoft 365](./Lab01-New-User-Onboarding/) | In Progress |
-| 02 | User Offboarding and Access Removal | Planned |
-| 03 | MFA Enforcement and Account Security | Planned |
-| 04 | Suspicious Sign-in Response Workflow | Planned |
-| 05 | Conditional Access and Device Compliance Concepts | Planned |
+| Lab No. | Project Title | Focus Area | Status |
+|--------|---------------|------------|--------|
+| 01 | [New User Onboarding in Microsoft 365](./Lab01-New-User-Onboarding/) | User lifecycle / licensing / MFA | In Progress |
+| 02 | User Offboarding and Access Removal | Identity / access removal | Planned |
+| 03 | MFA Enforcement and Account Security | Security / authentication | Planned |
+| 04 | Suspicious Sign-in Response Workflow | Security response | Planned |
+| 05 | Conditional Access and Device Compliance Concepts | Access control / compliance | Planned |
 
 ## Lab Environment
 This portfolio is based on a simulated Microsoft 365 administration environment created for learning and portfolio development purposes.
