@@ -54,7 +54,31 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Confirm the employee is ready to sign in and access required services
 
 ## Security Considerations
+- MFA should be enabled to reduce the risk of account compromise
+- Access should follow the principle of least privilege
+- Only the required license and permissions should be assigned
+- Administrative roles should not be granted unless necessary
 
 ## Common Issues and Troubleshooting
+### Issue 1: User cannot sign in
+Possible causes:
+- Incorrect username
+- Wrong temporary password
+- Account provisioning is not yet complete
+
+### Issue 2: Microsoft 365 apps are unavailable
+Possible causes:
+- License was not assigned
+- Services are still provisioning
+- Wrong license type was selected
+
+### Issue 3: MFA setup fails
+Possible causes:
+- MFA registration was not completed
+- Authentication method was not configured correctly
+- User needs additional setup guidance
 
 ## What I Learned
+This lab helped me understand that user onboarding in Microsoft 365 involves more than just creating an account.
+
+It also includes licensing, access management, security controls, and readiness verification. I also improved my understanding of how to document administrative workflows in a structured and professional format.
