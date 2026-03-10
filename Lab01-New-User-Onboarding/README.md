@@ -63,6 +63,14 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Confirm the license is assigned
 - Confirm the employee is ready to sign in and access required services
 
+## Expected Outcome
+At the end of this lab:
+- The new employee account is created
+- A valid Microsoft 365 license is assigned
+- Group membership is configured
+- MFA is enabled
+- The user is ready for first sign-in
+
 ## Security Considerations
 - MFA should be enabled to reduce the risk of account compromise
 - Access should follow the principle of least privilege
@@ -89,6 +97,6 @@ Possible causes:
 - User needs additional setup guidance
 
 ## What I Learned
-This lab helped me understand that user onboarding in Microsoft 365 involves more than just creating an account.
+This lab helped me understand that onboarding in Microsoft 365 is a structured administrative process rather than a single task.
 
-It also includes licensing, access management, security controls, and readiness verification. I also improved my understanding of how to document administrative workflows in a structured and professional format.
+I learned how user creation, licensing, group membership, and MFA work together to prepare a secure and functional account for a new employee. I also practiced documenting an IT workflow in a way that is clear and useful for support or admin-related roles.
