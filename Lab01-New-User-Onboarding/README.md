@@ -29,6 +29,29 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 > Note: This is a simulated lab project created for learning and portfolio purposes.
 
 ## Administrative Workflow
+### Step 1: Create the New User Account
+- Open Microsoft 365 Admin Center
+- Go to Users > Active users
+- Select Add a user
+- Enter the employee's name, display name, and username
+- Set an initial password and require password change at first sign-in
+
+### Step 2: Assign a Microsoft 365 License
+- Select the appropriate license for the employee
+- Confirm access to services such as Outlook, Teams, and OneDrive
+
+### Step 3: Add the User to the Appropriate Group
+- Add the user to the required Microsoft 365 group or security group
+- Verify that group membership supports the user's job role
+
+### Step 4: Enable MFA
+- Enable MFA for the account
+- Confirm that the user will be prompted to register MFA during first sign-in
+
+### Step 5: Verify Access Readiness
+- Confirm the account is active
+- Confirm the license is assigned
+- Confirm the employee is ready to sign in and access required services
 
 ## Security Considerations
 
