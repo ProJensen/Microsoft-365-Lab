@@ -77,7 +77,7 @@ Some projects are conceptual and workflow-based to reflect practical IT administ
 
 ## Repository Structure
 ```text
-ms102-labs/
+Microsoft-365-Lab/
 │
 ├── README.md
 ├── Lab01-New-User-Onboarding/
