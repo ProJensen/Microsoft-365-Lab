@@ -47,8 +47,11 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Set an initial password and require password change at first sign-in
 
 ### Step 2: Assign a Microsoft 365 License
-- Select the appropriate license for the employee
+- Assigned an Office 365 E5 license to the new user
+- Reviewed included services and kept the default service options enabled for this lab scenario
 - Confirm access to services such as Outlook, Teams, and OneDrive
+
+> Note: In a production environment, license services should be reviewed and adjusted according to the user’s job role and business requirements.
 
 Why this step matters:
 Assigning the correct license ensures the user has access to the required Microsoft 365 services for their job role.
