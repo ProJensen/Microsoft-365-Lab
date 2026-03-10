@@ -59,8 +59,12 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 ![Assign Product License](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/2_Assign_Product_Licenses.png)
 
 ### Step 3: Add the User to the Appropriate Group
-- Add the user to the required Microsoft 365 group or security group
-- Verify that group membership supports the user's job role
+- In the Microsoft 365 Admin Center, go to **Teams & groups** > **Active teams & groups**
+- Select the appropriate group for the employee, such as **Sales** or **All Employees**
+- Open the group membership settings and add the new user
+- Verify that the user is now a member of the selected group
+
+This step helps assign collaboration access and organize users based on their department or role.
 
 ### Step 4: Enable MFA
 - Enable MFA for the account
