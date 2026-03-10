@@ -56,9 +56,6 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 
 > Note: In a production environment, license services should be reviewed and adjusted according to the user’s job role and business requirements.
 
-Why this step matters:
-Assigning the correct license ensures the user has access to the required Microsoft 365 services for their job role.
-
 ![Assign Product License](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/2_Assign_Product_Licenses.png)
 
 ### Step 3: Add the User to the Appropriate Group
