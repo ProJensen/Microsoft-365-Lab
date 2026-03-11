@@ -41,7 +41,7 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 
 | Lab No. | Project Title | Focus Area | Status |
 |--------|---------------|------------|--------|
-| 01 | [New User Onboarding in Microsoft 365](./Lab01-New-User-Onboarding/) | User lifecycle / licensing / MFA | In Progress |
+| 01 | [New User Onboarding in Microsoft 365](./Lab01-New-User-Onboarding/) | User lifecycle / licensing | Completed |
 | 02 | User Offboarding and Access Removal | Identity / access removal | Planned |
 | 03 | MFA Enforcement and Account Security | Security / authentication | Planned |
 | 04 | Suspicious Sign-in Response Workflow | Security response | Planned |
@@ -96,7 +96,7 @@ Microsoft-365-Lab/
 
 ## Progress Tracker
 - [x] Create main repository structure
-- [ ] Complete Lab 01 - New User Onboarding
+- [x] Complete Lab 01 - New User Onboarding
 - [ ] Complete Lab 02 - User Offboarding
 - [ ] Complete Lab 03 - MFA Enforcement
 
