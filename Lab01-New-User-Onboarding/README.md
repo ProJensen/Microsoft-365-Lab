@@ -70,10 +70,10 @@ This step helps assign collaboration access and organize users based on their de
 
 ### Step 4: Review Authentication Settings and Configure Temporary Access Pass
 - In the Microsoft Entra admin center, opened the new user account
-- Navigated to **Authentication methods**
-- Reviewed the user’s current authentication status and confirmed that no methods were registered yet
-- Added **Temporary Access Pass (TAP)** as a temporary sign-in method
-- Confirmed that TAP can be used by the new user during first sign-in to begin secure account setup
+- Navigate to **Authentication methods**
+- Review the user’s current authentication status and confirmed that no methods were registered yet
+- Add **Temporary Access Pass (TAP)** as a temporary sign-in method (You may choose from Email, Phone Number, Temporary Access Pass, or QR code)
+- Confirm that TAP can be used by the new user during first sign-in to begin secure account setup
 
 This step supports secure onboarding by providing a temporary authentication method before the user registers stronger authentication methods.
 
