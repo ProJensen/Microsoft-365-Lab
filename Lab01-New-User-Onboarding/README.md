@@ -94,6 +94,12 @@ This step help verify that the account was fully prepared from the end-user pers
 
 > Note: During this lab, the first sign-in used Temporary Access Pass (TAP) instead of the account password. Because of that, the password change requirement applied during a later sign-in rather than the initial TAP-based sign-in.
 
+![Sign in](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/5_Sign%20in.png)
+
+![TAP-Sign in](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/5_TAP.png)
+
+![Microsoft Authenticator](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/5_Authenticator.png)
+
 ## Expected Outcome
 At the end of this lab:
 - The new employee account is created
