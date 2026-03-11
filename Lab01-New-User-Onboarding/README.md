@@ -81,6 +81,8 @@ This step supports secure onboarding by providing a temporary authentication met
 
 ![Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_Authentication_Method.png)
 
+![TAP](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_TAP.png)
+
 ### Step 5: Verify Access Readiness (from the new user side)
 - Open **office.com** and test the first sign-in flow using the new user account
 - Enter the new user’s work email address
