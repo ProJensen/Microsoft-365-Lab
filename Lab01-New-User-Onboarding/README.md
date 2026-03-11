@@ -25,7 +25,7 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Create a new user account in Microsoft 365
 - Assign the appropriate license
 - Add the user to the correct group
-- Enable MFA for account security
+- Configure authentication readiness for secure account access
 - Understand the basic user onboarding workflow
 - Practice documentation using a real-world admin scenario
 
