@@ -79,6 +79,8 @@ This step supports secure onboarding by providing a temporary authentication met
 
 > Note: Temporary Access Pass is useful during onboarding because it allows a new user to sign in and register additional authentication methods securely.
 
+![Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_Authentication_Method.png)
+
 ### Step 5: Verify Access Readiness
 - Confirm the account is active
 - Confirm the license is assigned
