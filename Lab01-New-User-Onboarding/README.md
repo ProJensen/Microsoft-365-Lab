@@ -42,7 +42,7 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 ### Step 1: Create the New User Account
 - Open Microsoft 365 Admin Center
 - Go to Users > Active users
-- Select Add a user
+- Select **Add a user**
 - Enter the employee's name, display name, and username
 - Set an initial password and require password change at first sign-in
 - Configure optional profile details such as job title, department, and location
@@ -68,7 +68,7 @@ This step helps assign collaboration access and organize users based on their de
 
 ![Add User to Group](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/3_Add_User_To_Group.png)
 
-### Step 4: Review Authentication Settings and Configure Temporary Access Pass
+### Step 4: Review Authentication Settings
 - In the Microsoft Entra admin center, opened the new user account
 - Navigate to **Authentication methods**
 - Review the user’s current authentication status and confirmed that no methods were registered yet
@@ -82,6 +82,13 @@ This step supports secure onboarding by providing a temporary authentication met
 ![Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_Authentication_Method.png)
 
 ![TAP](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_TAP.png)
+
+### Step 5: Verify Access Readiness (from admin side)
+- Review the new user account in the Microsoft 365 Admin Center
+- Confirm that the account was created successfully
+- Confirm that the Microsoft 365 license was assigned
+- Confirmethat the user was added to the appropriate group
+- Confirm that Temporary Access Pass (TAP) was configured as part of the onboarding process
 
 ### Step 5: Verify Access Readiness (from the new user side)
 - Open **office.com** and test the first sign-in flow using the new user account
@@ -134,6 +141,6 @@ Possible causes:
 - User needs additional setup guidance
 
 ## What I Learned
-This lab helped me understand that onboarding in Microsoft 365 is a structured administrative process rather than a single task.
+This lab helped me understand that onboarding in Microsoft 365 involves more than creating a user account and assigning a license.
 
-I learned how user creation, licensing, group membership, and MFA work together to prepare a secure and functional account for a new employee. I also practiced documenting an IT workflow in a way that is clear and useful for support or admin-related roles.
+I learned how account creation, licensing, group membership, and authentication setup work together as part of a secure onboarding workflow. I also verified the process from the end-user side by testing the first sign-in experience with Temporary Access Pass (TAP) and Microsoft Authenticator registration.
