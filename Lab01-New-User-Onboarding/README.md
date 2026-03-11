@@ -73,7 +73,7 @@ This step helps assign collaboration access and organize users based on their de
 - In the Microsoft Entra admin center, opened the new user account
 - Navigate to **Authentication methods**
 - Review the user’s current authentication status and confirmed that no methods were registered yet
-- Add **Temporary Access Pass (TAP)** as a temporary sign-in method (You may choose from Email, Phone Number, Temporary Access Pass, or QR code)
+- Add **Temporary Access Pass (TAP)** as a temporary sign-in method (choose from Email, Phone Number, Temporary Access Pass, or QR code)
 - Confirm that TAP can be used by the new user during first sign-in to begin secure account setup
 
 This step supports secure onboarding by providing a temporary authentication method before the user registers stronger authentication methods.
@@ -84,21 +84,21 @@ This step supports secure onboarding by providing a temporary authentication met
 
 ![TAP](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_TAP.png)
 
-### Step 5: Verify Access Readiness (from admin side)
+### Step 5A: Verify Access Readiness from the Admin Side
 - Review the new user account in the Microsoft 365 Admin Center
 - Confirm that the account was created successfully
 - Confirm that the Microsoft 365 license was assigned
-- Confirmethat the user was added to the appropriate group
+- Confirm that the user was added to the appropriate group
 - Confirm that Temporary Access Pass (TAP) was configured as part of the onboarding process
 
-### Step 5: Verify Access Readiness (from the new user side)
+### Step 5B: Verify Access Readiness from the New User Side
 - Open **office.com** and test the first sign-in flow using the new user account
 - Enter the new user’s work email address
 - Use **Temporary Access Pass (TAP)** to complete the initial sign-in process
 - Complete the Microsoft Authenticator registration steps when prompted
 - Confirm that the user was able to sign in successfully after the setup process
 
-This step help verify that the account was fully prepared from the end-user perspective, not only from the administrator side.
+This step helped verify that the account was fully prepared from the end-user perspective, not only from the administrator side.
 
 > Note: During this lab, the first sign-in used Temporary Access Pass (TAP) instead of the account password. Because of that, the password change requirement applied during a later sign-in rather than the initial TAP-based sign-in.
 
@@ -113,7 +113,7 @@ At the end of this lab:
 - The new employee account is created
 - A valid Microsoft 365 license is assigned
 - Group membership is configured
-- MFA is enabled
+- The user is prepared to complete secure sign-in and authentication setup
 - The user is ready for first sign-in
 
 ## Security Considerations
