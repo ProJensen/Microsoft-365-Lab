@@ -69,8 +69,11 @@ This step helps assign collaboration access and organize users based on their de
 ![Add User to Group](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/3_Add_User_To_Group.png)
 
 ### Step 4: Enable MFA
-- Enable MFA for the account
-- Confirm that the user will be prompted to register MFA during first sign-in
+- In the Microsoft Entra admin center, go to **Users** > **All users**
+- Select the new user account
+- Review the authentication or security settings for the user
+- Enable or require multi-factor authentication based on the organization’s security policy
+- Confirm that the user will be prompted to complete MFA registration during sign-in
 
 ### Step 5: Verify Access Readiness
 - Confirm the account is active
