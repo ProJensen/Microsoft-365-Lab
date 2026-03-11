@@ -68,12 +68,16 @@ This step helps assign collaboration access and organize users based on their de
 
 ![Add User to Group](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/3_Add_User_To_Group.png)
 
-### Step 4: Enable MFA
-- In the Microsoft Entra admin center, go to **Users** > **All users**
-- Select the new user account
-- Review the authentication or security settings for the user
-- Enable or require multi-factor authentication based on the organization’s security policy
-- Confirm that the user will be prompted to complete MFA registration during sign-in
+### Step 4: Review Authentication Settings and Configure Temporary Access Pass
+- In the Microsoft Entra admin center, opened the new user account
+- Navigated to **Authentication methods**
+- Reviewed the user’s current authentication status and confirmed that no methods were registered yet
+- Added **Temporary Access Pass (TAP)** as a temporary sign-in method
+- Confirmed that TAP can be used by the new user during first sign-in to begin secure account setup
+
+This step supports secure onboarding by providing a temporary authentication method before the user registers stronger authentication methods.
+
+> Note: Temporary Access Pass is useful during onboarding because it allows a new user to sign in and register additional authentication methods securely.
 
 ### Step 5: Verify Access Readiness
 - Confirm the account is active
