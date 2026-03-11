@@ -81,15 +81,16 @@ This step supports secure onboarding by providing a temporary authentication met
 
 ![Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_Authentication_Method.png)
 
-### Step 5: Verify Access Readiness
-Before completing the onboarding process, I verified that:
+### Step 5: Verify Access Readiness (from the new user side)
+- Open **office.com** and test the first sign-in flow using the new user account
+- Enter the new user’s work email address
+- Use **Temporary Access Pass (TAP)** to complete the initial sign-in process
+- Complete the Microsoft Authenticator registration steps when prompted
+- Confirm that the user was able to sign in successfully after the setup process
 
-- The user account was created successfully
-- The correct Microsoft 365 license was assigned
-- The user was added to the appropriate group
-- Authentication readiness was reviewed
-- Temporary Access Pass (TAP) was configured
-- The account was ready for first sign-in
+This step help verify that the account was fully prepared from the end-user perspective, not only from the administrator side.
+
+> Note: During this lab, the first sign-in used Temporary Access Pass (TAP) instead of the account password. Because of that, the password change requirement applied during a later sign-in rather than the initial TAP-based sign-in.
 
 ## Expected Outcome
 At the end of this lab:
