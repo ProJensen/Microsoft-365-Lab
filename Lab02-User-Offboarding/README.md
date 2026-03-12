@@ -76,6 +76,8 @@ This step helps reclaim unused licenses and remove unnecessary service access du
 
 > Note: In a real production environment, license removal should follow the organization’s retention, mailbox, and data access requirements.
 
+![Unassign License](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/3_Unassign_License.png)
+
 ### Step 4: Verify Offboarding Readiness
 - Confirm that sign-in is blocked
 - Confirm that unnecessary group access has been removed
