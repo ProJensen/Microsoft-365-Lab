@@ -79,3 +79,23 @@ At the end of this lab:
 - Access should be removed according to the principle of least privilege
 - Group memberships should be reviewed carefully to avoid leaving unnecessary access in place
 - License and account actions should follow the organization’s retention and security requirements
+
+## Common Issues and Troubleshooting
+
+### Issue 1: User still appears to have access
+Possible causes:
+- Sign-in was not fully blocked
+- Changes have not propagated yet
+- The account is still active in related services
+
+### Issue 2: Group-based access is still present
+Possible causes:
+- The user was not removed from all relevant groups
+- Access is inherited through another group
+- Group membership changes have not fully applied yet
+
+### Issue 3: License removal causes unexpected service impact
+Possible causes:
+- The organization still needs temporary access to mailbox or files
+- Offboarding steps were performed in the wrong order
+- Retention needs were not reviewed before license removal
