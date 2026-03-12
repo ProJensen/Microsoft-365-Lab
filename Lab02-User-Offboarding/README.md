@@ -53,9 +53,13 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 ![Blocked](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Blocked.png)
 
 ### Step 2: Review and Remove Group Memberships
-- Review the user’s current group memberships
-- Remove the user from groups that are no longer required
-- Confirm that access linked to those groups is no longer needed as part of the offboarding process
+- In the Microsoft 365 Admin Center, go to **Teams & groups** > **Active teams & groups**
+- Select the user’s assigned group, such as **Sales**
+- Open the group membership settings
+- Remove the departing user from the group
+- Verify that the user is no longer listed as a member
+
+This step helps remove collaboration access that is no longer needed after the employee leaves the organization.
 
 ### Step 3: Review License Assignment
 - Review the Microsoft 365 license assigned to the user
