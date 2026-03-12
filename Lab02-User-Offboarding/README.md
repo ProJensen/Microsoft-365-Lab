@@ -20,3 +20,12 @@ The purpose of this project is to demonstrate the administrative workflow involv
 An employee is leaving the company and their Microsoft 365 access must be removed.
 
 As the IT administrator, I need to secure the account, remove unnecessary access, and complete the basic offboarding steps to reduce security risk and maintain proper user lifecycle management.
+
+## Objectives
+- Review an existing Microsoft 365 user account
+- Block sign-in for the departing employee
+- Remove the user from assigned groups where appropriate
+- Review or remove the assigned Microsoft 365 license
+- Understand the importance of secure offboarding and access removal
+- Practice documentation using a real-world admin scenario
+
