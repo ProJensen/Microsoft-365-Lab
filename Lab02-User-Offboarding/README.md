@@ -87,7 +87,7 @@ This step helps reclaim unused licenses and remove unnecessary service access du
 
 This step helped confirm that the offboarding actions were successfully applied and that the user no longer retained unnecessary Microsoft 365 access.
 
-
+![Verify Sign-In Blocked](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/4_Verify_Sign_In_Blocked.png)
 
 ## Expected Outcome
 At the end of this lab:
