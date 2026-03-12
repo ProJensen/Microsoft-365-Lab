@@ -84,14 +84,14 @@ This step supports secure onboarding by providing a temporary authentication met
 
 ![TAP](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_TAP.png)
 
-### Step 5A: Verify Access Readiness from the Admin Side
+### Step 5A: Verify Access Status from the Admin Side
 - Review the new user account in the Microsoft 365 Admin Center
 - Confirm that the account was created successfully
 - Confirm that the Microsoft 365 license was assigned
 - Confirm that the user was added to the appropriate group
 - Confirm that Temporary Access Pass (TAP) was configured as part of the onboarding process
 
-### Step 5B: Verify Access Readiness from the New User Side
+### Step 5B: Verify Access Status from the New User Side
 - Open **office.com** and test the first sign-in flow using the new user account
 - Enter the new user’s work email address
 - Use **Temporary Access Pass (TAP)** to complete the initial sign-in process
