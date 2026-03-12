@@ -36,3 +36,10 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - License management
 - Group membership management
 - GitHub documentation
+
+## Administrative Workflow
+### Step 1: Review the User Account
+- Open Microsoft 365 Admin Center
+- Go to **Users** > **Active users**
+- Select the employee account that will be offboarded
+- Review the user's profile information, assigned license, and current status
