@@ -78,7 +78,7 @@ This step helps reclaim unused licenses and remove unnecessary service access du
 
 ![Unassign License](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/3_Unassign_License.png)
 
-### Step 4: Verify Offboarding Status
+### Step 4A: Verify Offboarding Status from Admin Side
 - Review the user account in the Microsoft 365 Admin Center
 - Confirm that sign-in was blocked for the departing employee
 - Review the user’s group memberships and verified that the user was removed from the **Sales** group
