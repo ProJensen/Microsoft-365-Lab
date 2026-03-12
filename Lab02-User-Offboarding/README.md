@@ -44,7 +44,7 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Select the employee account that will be offboarded
 - Review the user’s profile information, assigned license, and current account status
 - Block sign-in for the departing employee
-- Confirm that the account can no longer be used to access Microsoft 365 services
+- Confirm that the account is blocked for the account
 
 ![Review User](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Review_User.png)
 
@@ -81,8 +81,8 @@ This step helps reclaim unused licenses and remove unnecessary service access du
 ### Step 4A: Verify Offboarding Status from Admin Side
 - Review the user account in the Microsoft 365 Admin Center
 - Confirm that sign-in was blocked for the departing employee
-- Review the user’s group memberships and verified that the user was removed from the **Sales** group
-- Review the user’s license assignment and confirmed that the **Office 365 E5** license was unassigned
+- Review the user’s group memberships and verify that the user was removed from the **Sales** group
+- Review the user’s license assignment and confirm that the **Office 365 E5** license was unassigned
 - Verify that the account was placed in a more secure offboarding state
 
 This step helped confirm that the offboarding actions were successfully applied and that the user no longer retained unnecessary Microsoft 365 access.
@@ -90,7 +90,7 @@ This step helped confirm that the offboarding actions were successfully applied 
 ![Verify Sign-In Blocked](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/4_Verify_Sign_In_Blocked.png)
 
 ### Step 4B: Verify Offboarding Status from the User Side
-- Open **office.com** and attempted to sign in using the offboarded user account
+- Open **office.com** and attempt to sign in using the offboarded user account
 - Enter the user’s work email address and password
 - Confirm that sign-in was blocked and the user could no longer access Microsoft 365 services
 
