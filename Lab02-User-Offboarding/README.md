@@ -89,6 +89,13 @@ This step helped confirm that the offboarding actions were successfully applied 
 
 ![Verify Sign-In Blocked](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/4_Verify_Sign_In_Blocked.png)
 
+### Step 4B: Verify Offboarding Status from the User Side
+- Open **office.com** and attempted to sign in using the offboarded user account
+- Enter the user’s work email address and password
+- Confirm that sign-in was blocked and the user could no longer access Microsoft 365 services
+
+![User Cannot Sign-In](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/4_User_Cant_Sign_In.png)
+
 ## Expected Outcome
 At the end of this lab:
 - The employee account is reviewed for offboarding
