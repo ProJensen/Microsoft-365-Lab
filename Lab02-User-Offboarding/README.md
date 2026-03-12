@@ -46,6 +46,8 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Block sign-in for the departing employee
 - Confirm that the account can no longer be used to access Microsoft 365 services
 
+![Review User](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Review_User.png)
+
 ### Step 2: Review and Remove Group Memberships
 - Review the user’s current group memberships
 - Remove the user from groups that are no longer required
