@@ -29,3 +29,10 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Understand the importance of secure offboarding and access removal
 - Practice documentation using a real-world admin scenario
 
+## Tools and Services Used
+- Microsoft 365 Admin Center
+- Microsoft Entra Admin Center
+- Microsoft 365 user management
+- License management
+- Group membership management
+- GitHub documentation
