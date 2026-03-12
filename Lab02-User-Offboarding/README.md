@@ -38,29 +38,25 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - GitHub documentation
 
 ## Administrative Workflow
-### Step 1: Review the User Account
+### Step 1: Review the User Account and Block Sign-In
 - Open Microsoft 365 Admin Center
 - Go to **Users** > **Active users**
 - Select the employee account that will be offboarded
-- Review the user's profile information, assigned license, and current status
-
-### Step 2: Block Sign-In
-- Open the selected user account
-- Review the account settings
+- Review the user’s profile information, assigned license, and current account status
 - Block sign-in for the departing employee
 - Confirm that the account can no longer be used to access Microsoft 365 services
 
-### Step 3: Review and Remove Group Memberships
+### Step 2: Review and Remove Group Memberships
 - Review the user’s current group memberships
 - Remove the user from groups that are no longer required
 - Confirm that access linked to those groups is no longer needed as part of the offboarding process
 
-### Step 4: Review License Assignment
+### Step 3: Review License Assignment
 - Review the Microsoft 365 license assigned to the user
 - Remove the license if the organization no longer requires the account to retain active service access
 - Confirm that license removal follows the organization’s offboarding process
 
-### Step 5: Verify Offboarding Readiness
+### Step 4: Verify Offboarding Readiness
 - Confirm that sign-in is blocked
 - Confirm that unnecessary group access has been removed
 - Confirm that the license has been reviewed or removed
