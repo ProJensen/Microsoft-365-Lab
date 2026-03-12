@@ -79,10 +79,15 @@ This step helps reclaim unused licenses and remove unnecessary service access du
 ![Unassign License](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/3_Unassign_License.png)
 
 ### Step 4: Verify Offboarding Readiness
-- Confirm that sign-in is blocked
-- Confirm that unnecessary group access has been removed
-- Confirm that the license has been reviewed or removed
-- Verify that the account is in a secure offboarding state
+- Review the user account in the Microsoft 365 Admin Center
+- Confirm that sign-in was blocked for the departing employee
+- Review the user’s group memberships and verified that the user was removed from the **Sales** group
+- Review the user’s license assignment and confirmed that the **Office 365 E5** license was unassigned
+- Verify that the account was placed in a more secure offboarding state
+
+This step helped confirm that the offboarding actions were successfully applied and that the user no longer retained unnecessary Microsoft 365 access.
+
+
 
 ## Expected Outcome
 At the end of this lab:
