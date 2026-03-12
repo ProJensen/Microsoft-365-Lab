@@ -48,6 +48,10 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 
 ![Review User](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Review_User.png)
 
+![Block Sign-In](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Block_Sign-In.png)
+
+![Blocked](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Blocked.png)
+
 ### Step 2: Review and Remove Group Memberships
 - Review the user’s current group memberships
 - Remove the user from groups that are no longer required
