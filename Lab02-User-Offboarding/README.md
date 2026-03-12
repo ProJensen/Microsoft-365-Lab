@@ -99,3 +99,8 @@ Possible causes:
 - The organization still needs temporary access to mailbox or files
 - Offboarding steps were performed in the wrong order
 - Retention needs were not reviewed before license removal
+
+## What I Learned
+This lab helped me understand that offboarding in Microsoft 365 is an important security process, not just an account cleanup task.
+
+I learned how sign-in blocking, group membership review, and license management work together to reduce risk when an employee leaves the organization. This project also helped me practice documenting an administrative workflow in a structured and professional format.
