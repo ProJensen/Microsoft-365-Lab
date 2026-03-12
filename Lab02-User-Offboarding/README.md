@@ -65,3 +65,11 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Confirm that unnecessary group access has been removed
 - Confirm that the license has been reviewed or removed
 - Verify that the account is in a secure offboarding state
+
+## Expected Outcome
+At the end of this lab:
+- The employee account is reviewed for offboarding
+- Sign-in access is blocked
+- Group memberships are reviewed and updated
+- License assignment is reviewed or removed
+- The account is placed in a more secure offboarding state
