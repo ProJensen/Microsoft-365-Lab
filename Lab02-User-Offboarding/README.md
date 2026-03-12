@@ -102,6 +102,7 @@ At the end of this lab:
 - Sign-in access is blocked
 - Group memberships are reviewed and updated
 - License assignment is reviewed or removed
+- The account can no longer be used to access Microsoft 365 services
 - The account is placed in a more secure offboarding state
 
 ## Security Considerations
