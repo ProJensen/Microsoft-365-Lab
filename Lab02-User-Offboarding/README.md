@@ -58,7 +58,8 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Open the group membership settings
 - Remove the departing user from the group
 - Verify that the user is no longer listed as a member
-- Note that automatically assigned or organization-wide groups should also be reviewed based on the organization’s offboarding requirements
+
+> Note that automatically assigned or organization-wide groups should also be reviewed based on the organization’s offboarding requirements
 
 This step helps remove collaboration access that is no longer needed after the employee leaves the organization.
 
