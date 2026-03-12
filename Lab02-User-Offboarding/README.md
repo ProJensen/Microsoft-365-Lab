@@ -73,3 +73,9 @@ At the end of this lab:
 - Group memberships are reviewed and updated
 - License assignment is reviewed or removed
 - The account is placed in a more secure offboarding state
+
+## Security Considerations
+- Sign-in should be blocked as early as possible during offboarding
+- Access should be removed according to the principle of least privilege
+- Group memberships should be reviewed carefully to avoid leaving unnecessary access in place
+- License and account actions should follow the organization’s retention and security requirements
