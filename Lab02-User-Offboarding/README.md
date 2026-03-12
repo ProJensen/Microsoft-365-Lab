@@ -66,9 +66,15 @@ This step helps remove collaboration access that is no longer needed after the e
 ![Remove User From Group](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/2_Remove_User_From_Group.png)
 
 ### Step 3: Review License Assignment
-- Review the Microsoft 365 license assigned to the user
-- Remove the license if the organization no longer requires the account to retain active service access
-- Confirm that license removal follows the organization’s offboarding process
+- In the Microsoft 365 Admin Center, go to **Billing** > **Licenses**
+- Select the assigned license, such as **Office 365 E5**
+- Review the users assigned to that license
+- Locate the departing user and unassign the license
+- Confirm that the user no longer has the active license assigned
+
+This step helps reclaim unused licenses and remove unnecessary service access during the offboarding process.
+
+> Note: In a real production environment, license removal should follow the organization’s retention, mailbox, and data access requirements.
 
 ### Step 4: Verify Offboarding Readiness
 - Confirm that sign-in is blocked
