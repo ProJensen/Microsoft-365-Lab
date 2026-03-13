@@ -43,7 +43,7 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 |--------|---------------|------------|--------|
 | 01 | [New User Onboarding in Microsoft 365](./Lab01-New-User-Onboarding/) | User lifecycle / licensing | Completed |
 | 02 | [User Offboarding and Access Removal](./Lab02-User-Offboarding/) | Identity / access removal | Completed |
-| 03 | MFA Enforcement and Account Security | Security / authentication | Planned |
+| 03 | MFA Enforcement and Account Security | Security / authentication | In Progress |
 | 04 | Suspicious Sign-in Response Workflow | Security response | Planned |
 | 05 | Conditional Access and Device Compliance Concepts | Access control / compliance | Planned |
 
