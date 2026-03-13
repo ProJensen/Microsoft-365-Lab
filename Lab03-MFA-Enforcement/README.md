@@ -128,3 +128,6 @@ Possible causes:
 - The administrator account was not excluded from the test policy
 - The policy scope was too broad during testing
 - The policy was enabled before assignments were fully reviewed
+
+## What I Learned
+I learned how to set up Conditional Access to enforce MFA for a user during sign-in.
