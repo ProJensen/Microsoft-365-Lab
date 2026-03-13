@@ -117,19 +117,13 @@ Possible causes:
 - The user accessed a resource that was not affected by the test
 - The MFA requirement was not configured correctly in the **Grant** controls
 
-### Issue 3: User is prompted to register Microsoft Authenticator but can still skip setup
-Possible causes:
-- The prompt is part of registration guidance rather than full MFA enforcement
-- The user has not yet completed the required authentication setup
-- The sign-in experience is affected by existing tenant authentication settings
-
-### Issue 4: Conditional Access cannot be enabled
+### Issue 3: Conditional Access cannot be enabled
 Possible causes:
 - Microsoft Entra ID P1 or P2 is not available in the tenant
 - Security Defaults are still enabled
 - The policy configuration is incomplete
 
-### Issue 5: Administrator account is affected unexpectedly
+### Issue 4: Administrator account is affected unexpectedly
 Possible causes:
 - The administrator account was not excluded from the test policy
 - The policy scope was too broad during testing
