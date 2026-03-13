@@ -1,4 +1,4 @@
-# Lab 03 - MFA Enforcement and Account Security in Microsoft 365
+# Lab 03 - MFA Enforcement with Conditional Access in Microsoft 365
 
 ## Table of Contents
 - [Overview](#overview)
@@ -58,7 +58,7 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Enable **Require multifactor authentication**
 - Set the policy state to **On**
 - Disable **Security Defaults** so that the Conditional Access policy could be enforced
-- Create the policy successfully
+- Created the policy successfully
 
 This step enforces MFA for the selected user when accessing cloud applications.
 
@@ -74,7 +74,7 @@ This step enforces MFA for the selected user when accessing cloud applications.
 - Confirm that **Require multifactor authentication** was enabled under **Grant**
 - Verify that the policy state was set to **On**
 
-This step help confirm that the Conditional Access policy was configured correctly from the administrator side.
+This step helped confirm that the Conditional Access policy was configured correctly from the administrator side.
 
 ### Step 4B: Verify MFA Enforcement from the User Side
 - Open **office.com** and attempt to sign in using the test user account
