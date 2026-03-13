@@ -42,3 +42,4 @@ As the IT administrator, I need to review authentication settings, apply MFA-rel
 - Select the target user account
 - Open **Authentication methods**
 - Review the currently registered authentication methods for the user
+- Confirm that no usable authentication methods were registered for the user
