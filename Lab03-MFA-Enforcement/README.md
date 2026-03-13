@@ -36,19 +36,10 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - GitHub documentation
 
 ## Administrative Workflow
-### Step 1: Review the User’s Authentication Methods
+### Step 1: Review Conditional Access Availability
 - Open Microsoft Entra Admin Center
-- Go to **Users** > **All users**
-- Select the target user account
-- Open **Authentication methods**
-- Review the currently registered authentication methods for the user
-- Confirm that no usable authentication methods were registered for the user
+- Go to **Protection** > **Conditional Access**
+- Confirm that Conditional Access is available in the tenant after enabling the Microsoft Entra ID P1 trial
+- Review the Conditional Access dashboard before creating a new policy
 
-![Check User Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/1_Check_User_Authentication_Method.png)
-
-### Step 2: Add a Phone Number Authentication Method
-- Select **Add authentication method**
-- Choose **Phone number** and enter the user's phone number
-- Confirm the phone number was added as an authentication method for the account
-
-This step helps strengthen account security by adding an additional verification method beyond a password-only sign-in.
+This step helps confirm that the environment is ready for MFA enforcement by using Conditional Access.
