@@ -34,3 +34,10 @@ As the IT administrator, I need to review authentication settings, apply MFA-rel
 - Authentication methods
 - Microsoft Authenticator
 - GitHub documentation
+
+### Step 1: Review the User’s Authentication Methods
+- Open Microsoft Entra Admin Center
+- Go to **Users** > **All users**
+- Select the target user account
+- Open **Authentication methods**
+- Review the currently registered authentication methods for the user
