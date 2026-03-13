@@ -20,3 +20,10 @@ The purpose of this project is to demonstrate how authentication controls can he
 A small business wants to improve account security for its Microsoft 365 users.
 
 As the IT administrator, I need to review authentication settings, apply MFA-related protections, and verify that the user account is better protected against unauthorized sign-in attempts.
+
+## Objectives
+- Review authentication settings for a Microsoft 365 user
+- Configure or enforce MFA-related protection
+- Understand how stronger authentication improves account security
+- Verify the effect of authentication-related security changes
+- Practice documentation using a real-world security scenario
