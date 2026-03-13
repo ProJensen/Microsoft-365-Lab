@@ -22,11 +22,11 @@ A small business wants to reduce the risk of unauthorized account access for Mic
 As the IT administrator, I need to create a Conditional Access policy that requires MFA for a test user and verify that the sign-in process is protected by stronger authentication requirements.
 
 ## Objectives
-- Review authentication settings for a Microsoft 365 user
-- Configure or enforce MFA-related protection
-- Understand how stronger authentication improves account security
-- Verify the effect of authentication-related security changes
-- Practice documentation using a real-world security scenario
+- Review Conditional Access availability in Microsoft Entra
+- Create a Conditional Access policy for MFA enforcement
+- Apply the policy to a test user
+- Verify that MFA is required during sign-in
+- Practice documentation using a real-world identity security scenario
 
 ## Tools and Services Used
 - Microsoft Entra Admin Center
