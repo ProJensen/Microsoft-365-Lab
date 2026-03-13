@@ -30,8 +30,8 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 
 ## Tools and Services Used
 - Microsoft Entra Admin Center
-- Microsoft 365 Admin Center
-- Authentication methods
+- Conditional Access
+- Microsoft Entra ID P1
 - Microsoft Authenticator
 - GitHub documentation
 
