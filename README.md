@@ -44,7 +44,7 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 | 01 | [New User Onboarding in Microsoft 365](./Lab01-New-User-Onboarding/) | User lifecycle / licensing | Completed |
 | 02 | [User Offboarding and Access Removal](./Lab02-User-Offboarding/) | Identity / access removal | Completed |
 | 03 | [MFA Enforcement with Conditional Access](./Lab03-MFA-Enforcement/) | Identity security / MFA | Completed |
-| 04 | Suspicious Sign-in Response Workflow | Security response | Planned |
+| 04 | [Suspicious Sign-in Response Workflow](./Lab04-Suspicious-SignIn-Response/) | Security response | Planned |
 | 05 | Conditional Access and Device Compliance Concepts | Access control / compliance | Planned |
 
 ## Lab Environment
@@ -88,7 +88,11 @@ Microsoft-365-Lab/
 │   ├── README.md
 │   ├── screenshots/
 │   └── diagrams/
-└── Lab03-MFA-Enforcement/
+├── Lab03-MFA-Enforcement/
+│   ├── README.md
+│   ├── screenshots/
+│   └── diagrams/
+└── Lab04-Suspicious-SignIn-Response/
     ├── README.md
     ├── screenshots/
     └── diagrams/
@@ -99,6 +103,7 @@ Microsoft-365-Lab/
 - [x] Complete Lab 01 - New User Onboarding
 - [x] Complete Lab 02 - User Offboarding
 - [x] Complete Lab 03 - MFA Enforcement
+- [ ] Complete Lab 04 - Suspicious Sign-in Response
 
 ## Author
 **Jenhon Sze**
