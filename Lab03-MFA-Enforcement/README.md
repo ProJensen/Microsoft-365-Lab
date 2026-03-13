@@ -45,3 +45,10 @@ As the IT administrator, I need to review authentication settings, apply MFA-rel
 - Confirm that no usable authentication methods were registered for the user
 
 ![Check User Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/1_Check_User_Authentication_Method.png)
+
+### Step 2: Add a Phone Number Authentication Method
+- Select **Add authentication method**
+- Choose **Phone number** and enter the user's phone number
+- Confirm the phone number was added as an authentication method for the account
+
+This step helps strengthen account security by adding an additional verification method beyond a password-only sign-in.
