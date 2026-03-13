@@ -38,8 +38,7 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 ## Administrative Workflow
 ### Step 1: Review Conditional Access Availability
 - Open Microsoft Entra Admin Center
-- Go to **Protection** > **Conditional Access**
-- Confirm that Conditional Access is available in the tenant after enabling the Microsoft Entra ID P1 trial
-- Review the Conditional Access dashboard before creating a new policy
+- Go to **ID Protection** > **Risk-based Conditional Access**
+- Access the **Conditional Access** policy page
+- Review the dashboard and confirm that the **New policy** option is available
 
-This step helps confirm that the environment is ready for MFA enforcement by using Conditional Access.
