@@ -75,3 +75,11 @@ This step enforces MFA for the selected user when accessing cloud applications.
 - Verify that the policy state was set to **On**
 
 This step help confirm that the Conditional Access policy was configured correctly from the administrator side.
+
+### Step 4B: Verify MFA Enforcement from the User Side
+- Open **office.com** and attempt to sign in using the test user account
+- Enter the user’s work email address and password
+- Confirm that the sign-in flow required additional authentication
+- Verify that the user was prompted to complete MFA-related setup or verification before accessing Microsoft 365 services
+
+This step helped confirm that MFA enforcement was applied from the end-user perspective.
