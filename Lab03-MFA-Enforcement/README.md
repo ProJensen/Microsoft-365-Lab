@@ -51,3 +51,13 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Exclude the administrator account to avoid accidental lockout during testing
 
 ![Select Test User](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/2_Select_Test_User.png)
+
+### Step 3: Configure Target Resources and Grant Controls
+- Under **Target resources**, select **All resources** (formerly 'All cloud apps')
+- Under **Grant**, select **Grant access**
+- Enable **Require multifactor authentication**
+- Set the policy state to **On**
+- Disable **Security Defaults** so that the Conditional Access policy could be enforced
+- Create the policy successfully
+
+This step enforces MFA for the selected user when accessing cloud applications.
