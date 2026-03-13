@@ -42,8 +42,12 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Access the **Conditional Access** policy page
 - Review the dashboard and confirm that the **New policy** option is available
 
+![Conditional Access Page](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/1_Conditional_Access_Page.png)
+
 ### Step 2: Create a Conditional Access Policy
 - On the **Conditional Access** policy page, select **New policy**
 - Enter the policy name **Require MFA for Test User**
 - Under **Assignments** > **Users**, select a single test user account
 - Exclude the administrator account to avoid accidental lockout during testing
+
+![Select Test User](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/2_Select_Test_User.png)
