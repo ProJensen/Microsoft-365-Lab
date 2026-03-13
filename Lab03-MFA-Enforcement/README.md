@@ -17,9 +17,9 @@ This lab simulates the process of enforcing multi-factor authentication (MFA) in
 The purpose of this project is to demonstrate how Conditional Access policies can strengthen account security by requiring additional verification during sign-in.
 
 ## Scenario
-A small business wants to improve account security for its Microsoft 365 users.
+A small business wants to reduce the risk of unauthorized account access for Microsoft 365 users.
 
-As the IT administrator, I need to review authentication settings, apply MFA-related protections, and verify that the user account is better protected against unauthorized sign-in attempts.
+As the IT administrator, I need to create a Conditional Access policy that requires MFA for a test user and verify that the sign-in process is protected by stronger authentication requirements.
 
 ## Objectives
 - Review authentication settings for a Microsoft 365 user
