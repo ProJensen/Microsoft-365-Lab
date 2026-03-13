@@ -61,3 +61,7 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Create the policy successfully
 
 This step enforces MFA for the selected user when accessing cloud applications.
+
+![Target Resources](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/3_Target_Resources.png)
+
+![Grant](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/3_Grant.png)
