@@ -10,3 +10,8 @@
 - [Security Considerations](#security-considerations)
 - [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
 - [What I Learned](#what-i-learned)
+
+## Overview
+This lab simulates the process of improving account security in a Microsoft 365 environment by reviewing and enforcing multi-factor authentication (MFA)-related settings.
+
+The purpose of this project is to demonstrate how authentication controls can help reduce the risk of unauthorized access and strengthen account protection.
