@@ -83,3 +83,5 @@ This step help confirm that the Conditional Access policy was configured correct
 - Verify that the user was prompted to complete MFA-related setup or verification before accessing Microsoft 365 services
 
 This step helped confirm that MFA enforcement was applied from the end-user perspective.
+
+![Login with Authenticator](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/4_Login_With_Authenticator.png)
