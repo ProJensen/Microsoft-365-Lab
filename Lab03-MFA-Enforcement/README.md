@@ -12,9 +12,9 @@
 - [What I Learned](#what-i-learned)
 
 ## Overview
-This lab simulates the process of improving account security in a Microsoft 365 environment by reviewing and enforcing multi-factor authentication (MFA)-related settings.
+This lab simulates the process of enforcing multi-factor authentication (MFA) in a Microsoft 365 environment by using Conditional Access.
 
-The purpose of this project is to demonstrate how authentication controls can help reduce the risk of unauthorized access and strengthen account protection.
+The purpose of this project is to demonstrate how Conditional Access policies can strengthen account security by requiring additional verification during sign-in.
 
 ## Scenario
 A small business wants to improve account security for its Microsoft 365 users.
