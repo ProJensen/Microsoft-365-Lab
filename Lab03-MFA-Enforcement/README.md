@@ -65,3 +65,13 @@ This step enforces MFA for the selected user when accessing cloud applications.
 ![Target Resources](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/3_Target_Resources.png)
 
 ![Grant](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/3_Grant.png)
+
+### Step 4A: Verify Policy Status from the Admin Side
+- Return to **Risk-based Conditional Access**
+- Review the newly created policy **Require MFA for Test User**
+- Confirm that the target test user was included in the policy assignment
+- Confirm that **All resources** were selected under **Target resources**
+- Confirm that **Require multifactor authentication** was enabled under **Grant**
+- Verify that the policy state was set to **On**
+
+This step help confirm that the Conditional Access policy was configured correctly from the administrator side.
