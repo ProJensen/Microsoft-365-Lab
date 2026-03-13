@@ -35,6 +35,7 @@ As the IT administrator, I need to review authentication settings, apply MFA-rel
 - Microsoft Authenticator
 - GitHub documentation
 
+## Administrative Workflow
 ### Step 1: Review the User’s Authentication Methods
 - Open Microsoft Entra Admin Center
 - Go to **Users** > **All users**
