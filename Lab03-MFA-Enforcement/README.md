@@ -93,3 +93,10 @@ At the end of this lab:
 - The policy is enabled and applied to **All resources**
 - The user is required to complete additional authentication during sign-in
 - MFA enforcement is verified from both the admin side and the user side
+
+## Security Considerations
+- MFA helps reduce the risk of account compromise caused by password-only sign-in
+- Conditional Access policies should be tested with a single user or pilot group before broader rollout
+- Administrator accounts should be excluded from early testing to prevent accidental lockout
+- Disabling Security Defaults should be reviewed carefully before moving to Conditional Access-based enforcement
+- MFA enforcement should be implemented in a way that balances security and user access requirements
