@@ -100,3 +100,37 @@ At the end of this lab:
 - Administrator accounts should be excluded from early testing to prevent accidental lockout
 - Disabling Security Defaults should be reviewed carefully before moving to Conditional Access-based enforcement
 - MFA enforcement should be implemented in a way that balances security and user access requirements
+
+## Common Issues and Troubleshooting
+
+### Issue 1: Conditional Access policy does not apply
+Possible causes:
+- The wrong user was selected in the policy assignment
+- The policy is still set to **Report-only** instead of **On**
+- The target user is excluded from the policy
+- Security Defaults are still enabled
+
+### Issue 2: User can still sign in without MFA
+Possible causes:
+- The Conditional Access policy has not fully propagated yet
+- The sign-in attempt did not match the policy scope
+- The user accessed a resource that was not affected by the test
+- The MFA requirement was not configured correctly in the **Grant** controls
+
+### Issue 3: User is prompted to register Microsoft Authenticator but can still skip setup
+Possible causes:
+- The prompt is part of registration guidance rather than full MFA enforcement
+- The user has not yet completed the required authentication setup
+- The sign-in experience is affected by existing tenant authentication settings
+
+### Issue 4: Conditional Access cannot be enabled
+Possible causes:
+- Microsoft Entra ID P1 or P2 is not available in the tenant
+- Security Defaults are still enabled
+- The policy configuration is incomplete
+
+### Issue 5: Administrator account is affected unexpectedly
+Possible causes:
+- The administrator account was not excluded from the test policy
+- The policy scope was too broad during testing
+- The policy was enabled before assignments were fully reviewed
