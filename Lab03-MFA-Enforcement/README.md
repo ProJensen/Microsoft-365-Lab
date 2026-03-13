@@ -80,7 +80,7 @@ This step help confirm that the Conditional Access policy was configured correct
 - Open **office.com** and attempt to sign in using the test user account
 - Enter the user’s work email address and password
 - Confirm that the sign-in flow required additional authentication
-- Verify that the user was prompted to complete MFA-related setup or verification before accessing Microsoft 365 services
+- Verify that the user was required to complete MFA verification before access was granted
 
 This step helped confirm that MFA enforcement was applied from the end-user perspective.
 
