@@ -85,3 +85,11 @@ This step help confirm that the Conditional Access policy was configured correct
 This step helped confirm that MFA enforcement was applied from the end-user perspective.
 
 ![Login with Authenticator](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/4_Login_With_Authenticator.png)
+
+## Expected Outcome
+At the end of this lab:
+- A Conditional Access policy is created successfully
+- MFA is enforced for the selected test user
+- The policy is enabled and applied to **All resources**
+- The user is required to complete additional authentication during sign-in
+- MFA enforcement is verified from both the admin side and the user side
