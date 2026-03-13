@@ -27,3 +27,10 @@ As the IT administrator, I need to review authentication settings, apply MFA-rel
 - Understand how stronger authentication improves account security
 - Verify the effect of authentication-related security changes
 - Practice documentation using a real-world security scenario
+
+## Tools and Services Used
+- Microsoft Entra Admin Center
+- Microsoft 365 Admin Center
+- Authentication methods
+- Microsoft Authenticator
+- GitHub documentation
