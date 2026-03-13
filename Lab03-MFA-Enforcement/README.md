@@ -42,3 +42,8 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Access the **Conditional Access** policy page
 - Review the dashboard and confirm that the **New policy** option is available
 
+### Step 2: Create a Conditional Access Policy
+- On the **Conditional Access** policy page, select **New policy**
+- Enter the policy name **Require MFA for Test User**
+- Under **Assignments** > **Users**, select a single test user account
+- Exclude the administrator account to avoid accidental lockout during testing
