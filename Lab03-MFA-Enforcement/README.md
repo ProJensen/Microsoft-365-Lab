@@ -43,3 +43,5 @@ As the IT administrator, I need to review authentication settings, apply MFA-rel
 - Open **Authentication methods**
 - Review the currently registered authentication methods for the user
 - Confirm that no usable authentication methods were registered for the user
+
+![Check User Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/1_Check_User_Authentication_Method.png)
