@@ -53,10 +53,11 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 ![Suspicious Sign-in](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/2_Suspicious_SignIn.png)
 
 ### Step 3: Take Initial Response Actions
-- Reset the user’s password
+- Open the target user account in Microsoft Entra Admin Center
+- Reset the user’s password as part of the security response process
 - Revoke active sessions for the account
-- Review whether MFA should be re-registered or reinforced
-- Confirm that the account is placed in a more secure state after the response actions
+- Review whether MFA settings should be reinforced after the response actions
+- Confirm that the account is placed in a more secure state after the initial response
 
 ### Step 4A: Verify Response Actions from the Admin Side
 - Review the user account settings after the response actions
