@@ -54,3 +54,13 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Review whether MFA should be re-registered or reinforced
 - Confirm that the account is placed in a more secure state after the response actions
 
+### Step 4A: Verify Response Actions from the Admin Side
+- Review the user account settings after the response actions
+- Confirm that the password reset was completed
+- Confirm that active sessions were revoked
+- Verify that the account has stronger protection after the response workflow
+
+### Step 4B: Verify Access from the User Side
+- Attempt to sign in using the user account after the response actions
+- Confirm that the previous session is no longer active if applicable
+- Verify that the user must use updated credentials or reauthentication steps to access the account
