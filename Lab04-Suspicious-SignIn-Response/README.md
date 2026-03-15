@@ -35,3 +35,10 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Password reset
 - Revoke sessions
 - GitHub documentation
+
+## Administrative Workflow
+### Step 1: Review the User’s Sign-In Activity
+- Open Microsoft Entra Admin Center
+- Go to **Users** > select the target user account
+- Open **Sign-in logs**
+- Review recent sign-in attempts for the user
