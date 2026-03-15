@@ -54,10 +54,12 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 
 ### Step 3: Take Initial Response Actions
 - Open the target user account in Microsoft Entra Admin Center
-- Reset the user’s password as part of the security response process
-- Revoke active sessions for the account
-- Review whether MFA settings should be reinforced after the response actions
-- Confirm that the account is placed in a more secure state after the initial response
+- Select **Reset password** as part of the security response process
+- Generate a temporary password that must be changed at the next sign-in
+- Revoke active sessions for the account to help contain any potentially unauthorized access
+- Confirm that the account was placed in a more secure state after the initial response actions
+
+This step helps reduce ongoing account risk by forcing reauthentication and securing the user account after suspicious sign-in activity.
 
 ![Reset Password](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/3_Reset_Password.png)
 
