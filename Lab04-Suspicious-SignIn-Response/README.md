@@ -67,7 +67,6 @@ This step helps reduce ongoing account risk by forcing reauthentication and secu
 
 ### Step 4: Verify Access from the User Side
 - Open **office.com** and attempt to sign in using the target user account
-- Confirm that the previous password no longer worked
 - Sign in using the temporary password generated during the reset process
 - Observe that the user was prompted to change the password at the next sign-in
 
