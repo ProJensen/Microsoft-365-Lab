@@ -47,3 +47,10 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Review the sign-in location, timestamp, application, and status
 - Look for unusual activity such as unfamiliar locations, repeated failures, or unexpected sign-in attempts
 - Document the suspicious details for further review
+
+### Step 3: Take Initial Response Actions
+- Reset the user’s password
+- Revoke active sessions for the account
+- Review whether MFA should be re-registered or reinforced
+- Confirm that the account is placed in a more secure state after the response actions
+
