@@ -1,4 +1,4 @@
-# Lab 02 - User Offboarding and Access Removal
+# Lab 02 - User Offboarding and Access Removal in Microsoft 365
 
 ## Table of Contents
 - [Overview](#overview)
