@@ -78,3 +78,23 @@ At the end of this lab:
 - Password resets and session revocation can help reduce ongoing account risk
 - Unusual sign-in prompts may indicate compromised credentials or unauthorized access attempts
 - Administrators should verify account protection without unnecessarily disrupting legitimate users
+
+## Common Issues and Troubleshooting
+
+### Issue 1: Sign-in logs do not clearly show suspicious activity
+Possible causes:
+- The event has not appeared in the logs yet
+- The user report is based on an MFA prompt without a successful sign-in
+- Additional log review may be needed
+
+### Issue 2: User continues to receive unusual sign-in prompts
+Possible causes:
+- The account password was previously exposed
+- Existing sessions were not fully revoked
+- MFA settings were not strengthened after the response
+
+### Issue 3: User cannot sign in after the response actions
+Possible causes:
+- The password reset was not communicated properly
+- Sessions were revoked and the user must sign in again
+- Additional authentication steps are required after the security response
