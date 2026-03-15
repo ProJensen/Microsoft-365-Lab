@@ -98,3 +98,8 @@ Possible causes:
 - The password reset was not communicated properly
 - Sessions were revoked and the user must sign in again
 - Additional authentication steps are required after the security response
+
+## What I Learned
+This lab helped me understand that responding to suspicious sign-in activity involves both investigation and containment.
+
+I learned how sign-in logs, password resets, and session revocation can be used together as part of a basic account protection workflow in Microsoft 365.
