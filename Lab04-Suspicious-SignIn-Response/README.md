@@ -27,3 +27,11 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Take initial response actions to help protect the account
 - Understand the importance of account monitoring and rapid response
 - Practice documentation using a real-world identity security scenario
+
+## Tools and Services Used
+- Microsoft Entra Admin Center
+- Sign-in logs
+- User account management
+- Password reset
+- Revoke sessions
+- GitHub documentation
