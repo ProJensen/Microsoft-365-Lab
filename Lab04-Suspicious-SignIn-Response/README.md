@@ -16,3 +16,7 @@ This lab simulates a basic suspicious sign-in response workflow in a Microsoft 3
 
 The purpose of this project is to demonstrate how an administrator can review sign-in activity, identify potential account risk, and take initial response actions to protect a user account.
 
+## Scenario
+A user reports unusual account activity or a suspicious sign-in prompt.
+
+As the IT administrator, I need to review the user’s sign-in activity, check for unusual login details, and take basic response actions to help secure the account.
