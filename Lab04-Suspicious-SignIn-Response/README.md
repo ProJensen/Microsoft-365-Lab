@@ -59,6 +59,10 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Review whether MFA settings should be reinforced after the response actions
 - Confirm that the account is placed in a more secure state after the initial response
 
+![Reset Password](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/3_Reset_Password.png)
+
+![Revoke sessions](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/3_Revoke_sessions.png)
+
 ### Step 4A: Verify Response Actions from the Admin Side
 - Review the user account settings after the response actions
 - Confirm that the password reset was completed
