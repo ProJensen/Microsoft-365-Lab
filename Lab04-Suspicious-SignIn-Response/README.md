@@ -77,6 +77,7 @@ At the end of this lab:
 - Recent sign-in activity is reviewed
 - Suspicious sign-in details are identified and documented
 - Initial response actions are taken to protect the account
+- The user password is reset
 - Active sessions are revoked
 - The account is placed in a more secure state
 
