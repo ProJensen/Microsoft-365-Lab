@@ -50,6 +50,8 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Compare those failed attempts with successful sign-ins from **Toronto, Ontario, Canada**
 - Identify the pattern as suspicious and suitable for further response actions
 
+![Suspicious Sign-in](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/2_Suspicious_SignIn.png)
+
 ### Step 3: Take Initial Response Actions
 - Reset the user’s password
 - Revoke active sessions for the account
