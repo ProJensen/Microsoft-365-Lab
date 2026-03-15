@@ -42,3 +42,8 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Go to **Users** > select the target user account
 - Open **Sign-in logs**
 - Review recent sign-in attempts for the user
+
+### Step 2: Identify Suspicious Sign-In Details
+- Review the sign-in location, timestamp, application, and status
+- Look for unusual activity such as unfamiliar locations, repeated failures, or unexpected sign-in attempts
+- Document the suspicious details for further review
