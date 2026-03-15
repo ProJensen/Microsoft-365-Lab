@@ -20,3 +20,10 @@ The purpose of this project is to demonstrate how an administrator can review si
 A user reports unusual account activity or a suspicious sign-in prompt.
 
 As the IT administrator, I need to review the user’s sign-in activity, check for unusual login details, and take basic response actions to help secure the account.
+
+## Objectives
+- Review sign-in activity for a user account
+- Identify suspicious or unusual sign-in details
+- Take initial response actions to help protect the account
+- Understand the importance of account monitoring and rapid response
+- Practice documentation using a real-world identity security scenario
