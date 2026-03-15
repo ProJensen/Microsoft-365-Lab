@@ -44,9 +44,11 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Review recent sign-in attempts for the user
 
 ### Step 2: Identify Suspicious Sign-In Details
-- Review the sign-in location, timestamp, application, and status
-- Look for unusual activity such as unfamiliar locations, repeated failures, or unexpected sign-in attempts
-- Document the suspicious details for further review
+- Review the recent sign-in events for the target user
+- Observe multiple failed sign-in attempts within a short time period
+- Note that several failures came from **Wembley, Greater London**
+- Compare those failed attempts with successful sign-ins from **Toronto, Ontario, Canada**
+- Identify the pattern as suspicious and suitable for further response actions
 
 ### Step 3: Take Initial Response Actions
 - Reset the user’s password
