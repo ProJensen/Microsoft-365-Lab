@@ -65,16 +65,13 @@ This step helps reduce ongoing account risk by forcing reauthentication and secu
 
 ![Revoke sessions](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/3_Revoke_sessions.png)
 
-### Step 4A: Verify Response Actions from the Admin Side
-- Review the user account settings after the response actions
-- Confirm that the password reset was completed
-- Confirm that active sessions were revoked
-- Verify that the account has stronger protection after the response workflow
+### Step 4: Verify Access from the User Side
+- Open **office.com** and attempt to sign in using the target user account
+- Confirm that the previous password no longer worked
+- Sign in using the temporary password generated during the reset process
+- Observe that the user was prompted to change the password at the next sign-in
 
-### Step 4B: Verify Access from the User Side
-- Attempt to sign in using the user account after the response actions
-- Confirm that the previous session is no longer active if applicable
-- Verify that the user must use updated credentials or reauthentication steps to access the account
+This step helped confirm that the suspicious sign-in response forced reauthentication and improved account security.
 
 ## Expected Outcome
 At the end of this lab:
