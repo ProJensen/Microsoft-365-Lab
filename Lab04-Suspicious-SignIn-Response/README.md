@@ -72,3 +72,9 @@ At the end of this lab:
 - Initial response actions are taken to protect the account
 - Active sessions are revoked
 - The account is placed in a more secure state
+
+## Security Considerations
+- Suspicious sign-in activity should be reviewed as quickly as possible
+- Password resets and session revocation can help reduce ongoing account risk
+- Unusual sign-in prompts may indicate compromised credentials or unauthorized access attempts
+- Administrators should verify account protection without unnecessarily disrupting legitimate users
