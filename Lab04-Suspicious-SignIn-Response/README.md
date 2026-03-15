@@ -64,3 +64,11 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Attempt to sign in using the user account after the response actions
 - Confirm that the previous session is no longer active if applicable
 - Verify that the user must use updated credentials or reauthentication steps to access the account
+
+## Expected Outcome
+At the end of this lab:
+- Recent sign-in activity is reviewed
+- Suspicious sign-in details are identified and documented
+- Initial response actions are taken to protect the account
+- Active sessions are revoked
+- The account is placed in a more secure state
