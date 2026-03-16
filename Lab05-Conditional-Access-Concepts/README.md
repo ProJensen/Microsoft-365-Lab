@@ -35,3 +35,8 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - GitHub documentation
 
 ## Administrative Workflow
+### Step 1: Review Conditional Access Options for Device Compliance
+- Open Microsoft Entra Admin Center
+- Go to **Conditional Access** > **Policies**
+- Review Conditional Access policy options related to device-based access control
+- Confirm that the tenant is ready to create another Conditional Access policy for testing
