@@ -81,3 +81,29 @@ At the end of this lab:
 - Administrator accounts should be excluded from initial testing to avoid accidental lockout
 - Device compliance requirements should align with organizational device management policies
 - Access controls should balance security needs with operational usability
+
+## Common Issues and Troubleshooting
+
+### Issue 1: The compliant device option is unavailable
+Possible causes:
+- Required licensing or configuration is missing
+- Device compliance integration is not fully configured
+- The tenant is not connected to the expected device management workflow
+
+### Issue 2: The policy does not behave as expected
+Possible causes:
+- The wrong user was selected in the policy assignment
+- The policy is not enabled
+- The sign-in attempt does not match the intended policy scope
+
+### Issue 3: Access is blocked unexpectedly
+Possible causes:
+- The device is not marked as compliant
+- The user is testing from an unmanaged device
+- The policy scope is too broad during testing
+
+### Issue 4: Device compliance cannot be verified in the lab
+Possible causes:
+- No managed device is enrolled for testing
+- Compliance status is not available in the current environment
+- The lab is limited to policy creation and expected behavior review
