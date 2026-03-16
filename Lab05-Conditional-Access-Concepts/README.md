@@ -60,7 +60,7 @@ As the IT administrator, I need to review Conditional Access options, create a p
 ### Step 4: Verify the Access Control Result from the User Side
 - Open **office.com** and attempt to sign in using the test user account
 - Observe that the user was prompted to set up the device before access could be granted
-- Confirm that the device do not meet the required access conditions
+- Confirm that the device does not meet the required access conditions
 - Verify that access was denied when the device was not compliant or properly managed
 
 This step helped confirm that the Conditional Access policy successfully restricted access from a non-compliant or unmanaged device.
@@ -84,7 +84,7 @@ At the end of this lab:
 - Device-based access control helps reduce the risk of access from unmanaged or untrusted devices
 - Conditional Access policies should be tested with a limited user scope before wider rollout
 - Administrator accounts should be excluded from initial testing to avoid accidental lockout
-- Device compliance requirements should align with organizational device management policies
+- Requiring a compliant device is most effective when supported by device registration, enrollment, and compliance policies
 - Access controls should balance security needs with operational usability
 
 ## Common Issues and Troubleshooting
