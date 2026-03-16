@@ -46,3 +46,11 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Enter a policy name such as **Require Compliant Device for Test User**
 - Under **Assignments** > **Users**, select a single test user account
 - Exclude the administrator account to avoid accidental lockout during testing
+
+### Step 3: Configure Device Compliance Grant Controls
+- Under **Target resources**, select **All resources**
+- Leave additional conditions unconfigured for this basic test
+- Under **Grant**, select **Grant access**
+- Enable **Require device to be marked as compliant**
+- Set the policy state to **On**
+- Create and enable the policy
