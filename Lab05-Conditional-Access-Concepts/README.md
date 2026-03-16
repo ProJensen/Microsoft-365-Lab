@@ -66,3 +66,11 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Review how the policy would affect sign-in attempts from unmanaged or non-compliant devices
 - Confirm that device compliance is required before access is granted
 - Document the expected access control behavior for a production environment
+
+## Expected Outcome
+At the end of this lab:
+- A Conditional Access policy is created successfully
+- The policy applies to a selected test user
+- Device compliance is configured as a required access control
+- The policy is enabled successfully
+- The relationship between Conditional Access and device compliance is documented
