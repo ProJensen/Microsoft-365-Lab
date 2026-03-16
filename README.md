@@ -1,6 +1,6 @@
 # Microsoft 365 Administration Labs
 
-A hands-on lab portfolio focused on Microsoft 365 administration, identity, security, and user management based on MS-102 learning topics.
+A hands-on lab portfolio focused on Microsoft 365 administration, identity, security, and user management.
 
 ## Table of Contents
 - [Overview](#overview)
