@@ -77,6 +77,7 @@ At the end of this lab:
 - The policy applies to a selected test user
 - Device compliance is configured as a required access control
 - The policy is enabled successfully
+- Access from a non-compliant or unmanaged device is restricted
 - The relationship between Conditional Access and device compliance is documented
 
 ## Security Considerations
