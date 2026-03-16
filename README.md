@@ -108,6 +108,7 @@ Microsoft-365-Lab/
 - [x] Complete Lab 02 - User Offboarding
 - [x] Complete Lab 03 - MFA Enforcement
 - [x] Complete Lab 04 - Suspicious Sign-in Response
+- [ ] Complete Lab 05 - Conditional Access Concepts
 
 ## Author
 **Jenhon Sze**
