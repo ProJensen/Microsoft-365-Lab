@@ -55,6 +55,8 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Set the policy state to **On**
 - Create and enable the policy
 
+![Grant Access Setting](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab05-Conditional-Access-Concepts/screenshots/3_Grant_Access.png)
+
 ### Step 4: Verify the Access Control Result from the User Side
 - Open **office.com** and attempt to sign in using the test user account
 - Observe that the user was prompted to set up the device before access could be granted
