@@ -92,7 +92,11 @@ Microsoft-365-Lab/
 │   ├── README.md
 │   ├── screenshots/
 │   └── diagrams/
-└── Lab04-Suspicious-SignIn-Response/
+├── Lab04-Suspicious-SignIn-Response/
+│   ├── README.md
+│   ├── screenshots/
+│   └── diagrams/
+└── Lab05-Conditional-Access-Concepts/
     ├── README.md
     ├── screenshots/
     └── diagrams/
