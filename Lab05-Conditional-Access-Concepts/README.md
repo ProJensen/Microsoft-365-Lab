@@ -33,3 +33,5 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Conditional Access
 - Microsoft Entra ID P1
 - GitHub documentation
+
+## Administrative Workflow
