@@ -56,9 +56,12 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Create and enable the policy
 
 ### Step 4: Verify the Access Control Result from the User Side
-- Review how the policy would affect sign-in attempts from unmanaged or non-compliant devices
-- Confirm that device compliance is required before access is granted
-- Document the expected access control behavior for a production environment
+- Open **office.com** and attempt to sign in using the test user account
+- Observe that the user was prompted to set up the device before access could be granted
+- Confirm that the device do not meet the required access conditions
+- Verify that access was denied when the device was not compliant or properly managed
+
+This step helped confirm that the Conditional Access policy successfully restricted access from a non-compliant or unmanaged device.
 
 ## Expected Outcome
 At the end of this lab:
