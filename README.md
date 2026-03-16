@@ -63,15 +63,17 @@ Some projects are conceptual and workflow-based to reflect practical IT administ
 - Microsoft 365 Admin Center
 - Microsoft Entra Admin Center
 - Microsoft Learn
+- Conditional Access
+- Microsoft Entra ID P1
 - GitHub
 - Markdown documentation
 
 ## Key Learning Areas
 - Managing Microsoft 365 users and identities
 - Assigning licenses and access permissions
-- Applying MFA and basic identity protection
+- Applying MFA and Conditional Access policies
 - Understanding onboarding and offboarding workflows
-- Supporting administrative security practices
+- Reviewing suspicious sign-in activity and taking response actions
 - Documenting IT processes in a professional format
 
 ## Repository Structure
