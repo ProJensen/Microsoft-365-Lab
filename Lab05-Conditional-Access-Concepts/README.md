@@ -24,3 +24,7 @@ As the IT administrator, I need to review Conditional Access options, create a p
 ## Objectives
 - Review Conditional Access options related to device-based access control
 - Create a Conditional Access policy that requires a compliant device
+- Apply the policy to a test user
+- Understand the relationship between Conditional Access and device compliance
+- Practice documentation using a real-world identity and access control scenario
+
