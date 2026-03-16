@@ -107,3 +107,8 @@ Possible causes:
 - No managed device is enrolled for testing
 - Compliance status is not available in the current environment
 - The lab is limited to policy creation and expected behavior review
+
+## What I Learned
+I learned how to create a Conditional Access policy that uses device compliance as an access control requirement.
+
+This lab also helped me understand how Conditional Access and device compliance work together to protect Microsoft 365 resources from access by unmanaged or non-compliant devices.
