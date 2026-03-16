@@ -10,3 +10,8 @@
 - [Security Considerations](#security-considerations)
 - [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
 - [What I Learned](#what-i-learned)
+
+## Overview
+This lab simulates the process of using Conditional Access to restrict access based on device compliance in a Microsoft 365 environment.
+
+The purpose of this project is to demonstrate how administrators can use Conditional Access policies to require a compliant device before allowing access to organizational resources.
