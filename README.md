@@ -45,7 +45,7 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 | 02 | [User Offboarding and Access Removal](./Lab02-User-Offboarding/) | Identity / access removal | Completed |
 | 03 | [MFA Enforcement with Conditional Access](./Lab03-MFA-Enforcement/) | Identity security / MFA | Completed |
 | 04 | [Suspicious Sign-in Response Workflow](./Lab04-Suspicious-SignIn-Response/) | Security response | Completed |
-| 05 | [Conditional Access and Device Compliance Concepts](./Lab05-Conditional-Access-Concepts/) | Access control / compliance | In Progress |
+| 05 | [Conditional Access and Device Compliance Concepts](./Lab05-Conditional-Access-Concepts/) | Access control / compliance | Completed |
 
 ## Lab Environment
 This portfolio is based on a simulated Microsoft 365 administration environment created for learning and portfolio development purposes.
@@ -107,7 +107,7 @@ Microsoft-365-Lab/
 - [x] Complete Lab 02 - User Offboarding
 - [x] Complete Lab 03 - MFA Enforcement
 - [x] Complete Lab 04 - Suspicious Sign-in Response
-- [ ] Complete Lab 05 - Conditional Access Concepts
+- [x] Complete Lab 05 - Conditional Access Concepts
 
 ## Author
 **Jenhon Sze**
