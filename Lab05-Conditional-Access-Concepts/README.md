@@ -28,3 +28,10 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Understand the relationship between Conditional Access and device compliance
 - Practice documentation using a real-world identity and access control scenario
 
+## Tools and Services Used
+- Microsoft Entra Admin Center
+- Conditional Access
+- Microsoft Entra ID P1
+- Device compliance concepts
+- Microsoft 365 test user account
+- GitHub documentation
