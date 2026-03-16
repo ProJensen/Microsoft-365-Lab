@@ -54,3 +54,15 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Enable **Require device to be marked as compliant**
 - Set the policy state to **On**
 - Create and enable the policy
+
+### Step 4A: Verify Policy Status from the Admin Side
+- Review the newly created Conditional Access policy
+- Confirm that the target test user is included
+- Confirm that **All resources** are selected under **Target resources**
+- Confirm that **Require device to be marked as compliant** is enabled under **Grant**
+- Verify that the policy state is set to **On**
+
+### Step 4B: Review the Expected Access Control Result
+- Review how the policy would affect sign-in attempts from unmanaged or non-compliant devices
+- Confirm that device compliance is required before access is granted
+- Document the expected access control behavior for a production environment
