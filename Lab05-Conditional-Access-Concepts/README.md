@@ -63,6 +63,8 @@ As the IT administrator, I need to review Conditional Access options, create a p
 
 This step helped confirm that the Conditional Access policy successfully restricted access from a non-compliant or unmanaged device.
 
+> Note: To allow access under a policy that requires a compliant device, the device would typically need to be registered in Microsoft Entra ID, enrolled in Microsoft Intune, and evaluated against a compliance policy before it can be marked as compliant.
+
 ## Expected Outcome
 At the end of this lab:
 - A Conditional Access policy is created successfully
