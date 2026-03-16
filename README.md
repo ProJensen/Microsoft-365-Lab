@@ -29,10 +29,10 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 
 ## Skills Covered
 - Microsoft 365 Administration
-- Microsoft Entra ID Fundamentals
+- Microsoft Entra ID
 - User and License Management
 - Identity and Access Management
-- MFA and Security Basics
+- Multi-Factor Authentication (MFA)
 - Administrative Documentation
 - Troubleshooting Workflow
 - IT Support Scenario Planning
