@@ -15,7 +15,7 @@ A hands-on lab portfolio focused on Microsoft 365 administration, identity, secu
 - [Author](#author)
 
 ## Overview
-This repository documents my Microsoft 365 administration lab projects based on MS-102 learning topics.
+This repository documents my Microsoft 365 administration lab projects.
 
 The goal of this portfolio is to simulate real-world IT support and Microsoft 365 administrator tasks, including user onboarding, identity management, security, compliance, and access control.
 
