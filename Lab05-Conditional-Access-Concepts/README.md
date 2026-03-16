@@ -22,3 +22,5 @@ A small business wants to improve access control by allowing Microsoft 365 acces
 As the IT administrator, I need to review Conditional Access options, create a policy that requires a compliant device, and document how device-based access control can improve security.
 
 ## Objectives
+- Review Conditional Access options related to device-based access control
+- Create a Conditional Access policy that requires a compliant device
