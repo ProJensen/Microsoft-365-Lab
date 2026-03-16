@@ -40,3 +40,9 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Go to **Conditional Access** > **Policies**
 - Review Conditional Access policy options related to device-based access control
 - Confirm that the tenant is ready to create another Conditional Access policy for testing
+
+### Step 2: Create a Conditional Access Policy for Device Compliance
+- Select **New policy**
+- Enter a policy name such as **Require Compliant Device for Test User**
+- Under **Assignments** > **Users**, select a single test user account
+- Exclude the administrator account to avoid accidental lockout during testing
