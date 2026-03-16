@@ -74,3 +74,10 @@ At the end of this lab:
 - Device compliance is configured as a required access control
 - The policy is enabled successfully
 - The relationship between Conditional Access and device compliance is documented
+
+## Security Considerations
+- Device-based access control helps reduce the risk of access from unmanaged or untrusted devices
+- Conditional Access policies should be tested with a limited user scope before wider rollout
+- Administrator accounts should be excluded from initial testing to avoid accidental lockout
+- Device compliance requirements should align with organizational device management policies
+- Access controls should balance security needs with operational usability
