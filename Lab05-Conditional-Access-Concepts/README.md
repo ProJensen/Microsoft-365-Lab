@@ -67,6 +67,10 @@ This step helped confirm that the Conditional Access policy successfully restric
 
 > Note: To allow access under a policy that requires a compliant device, the device would typically need to be registered in Microsoft Entra ID, enrolled in Microsoft Intune, and evaluated against a compliance policy before it can be marked as compliant.
 
+![Require Device Setup](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab05-Conditional-Access-Concepts/screenshots/4_Require_Device_Setup.png)
+
+![Access Denied](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab05-Conditional-Access-Concepts/screenshots/4_Access_Denied.png)
+
 ## Expected Outcome
 At the end of this lab:
 - A Conditional Access policy is created successfully
