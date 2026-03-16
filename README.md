@@ -65,7 +65,6 @@ Some projects are conceptual and workflow-based to reflect practical IT administ
 - Microsoft Learn
 - GitHub
 - Markdown documentation
-- Workflow diagrams
 
 ## Key Learning Areas
 - Managing Microsoft 365 users and identities
