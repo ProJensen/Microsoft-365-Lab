@@ -104,7 +104,6 @@ Microsoft-365-Lab/
 ```
 
 ## Progress Tracker
-- [x] Create main repository structure
 - [x] Complete Lab 01 - New User Onboarding
 - [x] Complete Lab 02 - User Offboarding
 - [x] Complete Lab 03 - MFA Enforcement
