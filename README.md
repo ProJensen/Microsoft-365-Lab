@@ -40,7 +40,7 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 ## Lab Projects
 
 | Lab No. | Project Title | Focus Area | Status |
-|--------|---------------|------------|--------|
+|-|-|-|-|
 | 01 | [New User Onboarding in Microsoft 365](./Lab01-New-User-Onboarding/) | User lifecycle / licensing | Completed |
 | 02 | [User Offboarding and Access Removal](./Lab02-User-Offboarding/) | Identity / access removal | Completed |
 | 03 | [MFA Enforcement with Conditional Access](./Lab03-MFA-Enforcement/) | Identity security / MFA | Completed |
