@@ -25,7 +25,7 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 - Build a structured Microsoft 365 lab portfolio
 - Practice Microsoft 365 administration concepts through simulated business scenarios
 - Develop documentation and troubleshooting skills
-- Demonstrate initiative and hands-on learning for entry-level IT roles
+- Demonstrate initiative and hands-on learning for IT roles
 
 ## Skills Covered
 - Microsoft 365 Administration
