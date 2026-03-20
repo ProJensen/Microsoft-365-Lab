@@ -83,24 +83,19 @@ Microsoft-365-Lab/
 ├── README.md
 ├── Lab01-New-User-Onboarding/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 ├── Lab02-User-Offboarding/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 ├── Lab03-MFA-Enforcement/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 ├── Lab04-Suspicious-SignIn-Response/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 └── Lab05-Conditional-Access-Concepts/
     ├── README.md
-    ├── screenshots/
-    └── diagrams/
+    └── screenshots/
 ```
 
 ## Progress Tracker
