@@ -48,7 +48,7 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 | 05 | [Conditional Access and Device Compliance Concepts](./Lab05-Conditional-Access-Concepts/) | Access control / compliance | Completed |
 | 06 | Teams and SharePoint Access Setup | Collaboration / permissions | Planned |
 | 07 | Outlook and Shared Mailbox Support | Mail / user support | Planned |
-| 08 | OneDrive File Sharing Troubleshooting | Storage / sharing | support | Planned |
+| 08 | OneDrive File Sharing Troubleshooting | Storage / sharing / support | Planned |
 
 ## Lab Environment
 This portfolio is based on a simulated Microsoft 365 administration environment created for learning and portfolio development purposes.
