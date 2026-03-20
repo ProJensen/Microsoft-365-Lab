@@ -50,7 +50,7 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Compare those failed attempts with successful sign-ins from **Toronto, Ontario, Canada**
 - Identify the pattern as suspicious and suitable for further response actions
 
-![Suspicious Sign-in](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/2_Suspicious_SignIn.png)
+![Suspicious Sign-in](./screenshots/2_Suspicious_SignIn.png)
 
 ### Step 3: Take Initial Response Actions
 - Open the target user account in Microsoft Entra Admin Center
@@ -61,9 +61,9 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 
 This step helps reduce ongoing account risk by forcing reauthentication and securing the user account after suspicious sign-in activity.
 
-![Reset Password](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/3_Reset_Password.png)
+![Reset Password](./screenshots/3_Reset_Password.png)
 
-![Revoke sessions](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab04-Suspicious-SignIn-Response/screenshots/3_Revoke_sessions.png)
+![Revoke sessions](./screenshots/3_Revoke_sessions.png)
 
 ### Step 4: Verify Access from the User Side
 - Open **office.com** and attempt to sign in using the target user account
