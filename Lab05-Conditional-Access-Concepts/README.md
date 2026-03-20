@@ -55,7 +55,7 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Set the policy state to **On**
 - Create and enable the policy
 
-![Grant Access Setting](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab05-Conditional-Access-Concepts/screenshots/3_Grant_Access.png)
+![Grant Access Setting](./screenshots/3_Grant_Access.png)
 
 ### Step 4: Verify the Access Control Result from the User Side
 - Open **office.com** and attempt to sign in using the test user account
@@ -67,9 +67,9 @@ This step helped confirm that the Conditional Access policy successfully restric
 
 > Note: To allow access under a policy that requires a compliant device, the device would typically need to be registered in Microsoft Entra ID, enrolled in Microsoft Intune, and evaluated against a compliance policy before it can be marked as compliant.
 
-![Require Device Setup](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab05-Conditional-Access-Concepts/screenshots/4_Require_Device_Setup.png)
+![Require Device Setup](./screenshots/4_Require_Device_Setup.png)
 
-![Access Denied](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab05-Conditional-Access-Concepts/screenshots/4_Access_Denied.png)
+![Access Denied](./screenshots/4_Access_Denied.png)
 
 ## Expected Outcome
 At the end of this lab:
