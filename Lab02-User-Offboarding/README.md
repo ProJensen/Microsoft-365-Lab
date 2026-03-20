@@ -46,11 +46,11 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Block sign-in for the departing employee
 - Confirm that the account is blocked for the account
 
-![Review User](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Review_User.png)
+![Review User](./screenshots/1_Review_User.png)
 
-![Block Sign-In](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Block_Sign-In.png)
+![Block Sign-In](./screenshots/1_Block_Sign-In.png)
 
-![Blocked](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/1_Blocked.png)
+![Blocked](./screenshots/1_Blocked.png)
 
 ### Step 2: Review and Remove Group Memberships
 - In the Microsoft 365 Admin Center, go to **Teams & groups** > **Active teams & groups**
@@ -63,7 +63,7 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 
 This step helps remove collaboration access that is no longer needed after the employee leaves the organization.
 
-![Remove User From Group](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/2_Remove_User_From_Group.png)
+![Remove User From Group](./screenshots/2_Remove_User_From_Group.png)
 
 ### Step 3: Review License Assignment
 - In the Microsoft 365 Admin Center, go to **Billing** > **Licenses**
@@ -76,7 +76,7 @@ This step helps reclaim unused licenses and remove unnecessary service access du
 
 > Note: In a real production environment, license removal should follow the organization’s retention, mailbox, and data access requirements.
 
-![Unassign License](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/3_Unassign_License.png)
+![Unassign License](./screenshots/3_Unassign_License.png)
 
 ### Step 4A: Verify Offboarding Status from Admin Side
 - Review the user account in the Microsoft 365 Admin Center
@@ -87,14 +87,14 @@ This step helps reclaim unused licenses and remove unnecessary service access du
 
 This step helped confirm that the offboarding actions were successfully applied and that the user no longer retained unnecessary Microsoft 365 access.
 
-![Verify Sign-In Blocked](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/4_Verify_Sign_In_Blocked.png)
+![Verify Sign-In Blocked](./screenshots/4_Verify_Sign_In_Blocked.png)
 
 ### Step 4B: Verify Offboarding Status from the User Side
 - Open **office.com** and attempt to sign in using the offboarded user account
 - Enter the user’s work email address and password
 - Confirm that sign-in was blocked and the user could no longer access Microsoft 365 services
 
-![User Cannot Sign-In](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab02-User-Offboarding/screenshots/4_User_Cant_Sign_In.png)
+![User Cannot Sign-In](./screenshots/4_User_Cant_Sign_In.png)
 
 ## Expected Outcome
 At the end of this lab:
