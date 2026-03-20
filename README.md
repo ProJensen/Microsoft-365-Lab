@@ -96,7 +96,16 @@ Microsoft-365-Lab/
 ├── Lab04-Suspicious-SignIn-Response/
 │   ├── README.md
 │   └── screenshots/
-└── Lab05-Conditional-Access-Concepts/
+├── Lab05-Conditional-Access-Concepts/
+│   ├── README.md
+│   └── screenshots/
+├── Lab06-Teams-SharePoint-Setup/
+│   ├── README.md
+│   └── screenshots/
+├── Lab07-
+│   ├── README.md
+│   └── screenshots/
+└── Lab08-
     ├── README.md
     └── screenshots/
 ```
@@ -107,6 +116,9 @@ Microsoft-365-Lab/
 - [x] Complete Lab 03 - MFA Enforcement
 - [x] Complete Lab 04 - Suspicious Sign-in Response
 - [x] Complete Lab 05 - Conditional Access Concepts
+- [ ] Complete Lab 06 - Teams and SharePoint Setup
+- [ ] Complete Lab 07 - 
+- [ ] Complete Lab 08 - 
 
 ## Author
 **Jenhon Sze**
