@@ -57,7 +57,7 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 
 > Note: In a production environment, license services should be reviewed and adjusted according to the user’s job role and business requirements.
 
-![Assign Product License](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/2_Assign_Product_Licenses.png)
+![Assign Product License](./screenshots/2_Assign_Product_Licenses.png)
 
 ### Step 3: Add the User to the Appropriate Group
 - In the Microsoft 365 Admin Center, go to **Teams & groups** > **Active teams & groups**
@@ -67,7 +67,7 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 
 This step helps assign collaboration access and organize users based on their department or role.
 
-![Add User to Group](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/3_Add_User_To_Group.png)
+![Add User to Group](./screenshots/3_Add_User_To_Group.png)
 
 ### Step 4: Review Authentication Settings
 - In the Microsoft Entra admin center, opened the new user account
@@ -80,9 +80,9 @@ This step supports secure onboarding by providing a temporary authentication met
 
 > Note: Temporary Access Pass is useful during onboarding because it allows a new user to sign in and register additional authentication methods securely.
 
-![Authentication Method](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_Authentication_Method.png)
+![Authentication Method](./screenshots/4_Authentication_Method.png)
 
-![TAP](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/4_TAP.png)
+![TAP](./screenshots/4_TAP.png)
 
 ### Step 5A: Verify Access Status from the Admin Side
 - Review the new user account in the Microsoft 365 Admin Center
@@ -102,11 +102,11 @@ This step helped verify that the account was fully prepared from the end-user pe
 
 > Note: During this lab, the first sign-in used Temporary Access Pass (TAP) instead of the account password. Because of that, the password change requirement applied during a later sign-in rather than the initial TAP-based sign-in.
 
-![Sign in](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/5_Sign%20in.png)
+![Sign in](./screenshots/5_Sign%20in.png)
 
-![TAP-Sign in](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/5_TAP.png)
+![TAP-Sign in](./screenshots/5_TAP.png)
 
-![Microsoft Authenticator](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab01-New-User-Onboarding/screenshots/5_Authenticator.png)
+![Microsoft Authenticator](./screenshots/5_Authenticator.png)
 
 ## Expected Outcome
 At the end of this lab:
