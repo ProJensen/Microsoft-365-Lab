@@ -42,7 +42,7 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Access the **Conditional Access** policy page
 - Review the dashboard and confirm that the **New policy** option is available
 
-![Conditional Access Page](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/1_Conditional_Access_Page.png)
+![Conditional Access Page](./screenshots/1_Conditional_Access_Page.png)
 
 ### Step 2: Create a Conditional Access Policy
 - On the **Conditional Access** policy page, select **New policy**
@@ -50,7 +50,7 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Under **Assignments** > **Users**, select a single test user account
 - Exclude the administrator account to avoid accidental lockout during testing
 
-![Select Test User](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/2_Select_Test_User.png)
+![Select Test User](./screenshots/2_Select_Test_User.png)
 
 ### Step 3: Configure Target Resources and Grant Controls
 - Under **Target resources**, select **All resources** (formerly 'All cloud apps')
@@ -62,9 +62,9 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 
 This step enforces MFA for the selected user when accessing cloud applications.
 
-![Target Resources](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/3_Target_Resources.png)
+![Target Resources](./screenshots/3_Target_Resources.png)
 
-![Grant](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/3_Grant.png)
+![Grant](./screenshots/3_Grant.png)
 
 ### Step 4A: Verify Policy Status from the Admin Side
 - Return to **Risk-based Conditional Access**
@@ -84,7 +84,7 @@ This step helped confirm that the Conditional Access policy was configured corre
 
 This step helped confirm that MFA enforcement was applied from the end-user perspective.
 
-![Login with Authenticator](https://raw.githubusercontent.com/ProJensen/Microsoft-365-Lab/refs/heads/main/Lab03-MFA-Enforcement/screenshots/4_Login_With_Authenticator.png)
+![Login with Authenticator](./screenshots/4_Login_With_Authenticator.png)
 
 ## Expected Outcome
 At the end of this lab:
