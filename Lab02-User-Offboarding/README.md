@@ -27,7 +27,6 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Remove the user from assigned groups where appropriate
 - Review or remove the assigned Microsoft 365 license
 - Understand the importance of secure offboarding and access removal
-- Practice documentation using a real-world admin scenario
 
 ## Tools and Services Used
 - Microsoft 365 Admin Center
@@ -35,7 +34,6 @@ As the IT administrator, I need to secure the account, remove unnecessary access
 - Microsoft 365 user management
 - License management
 - Group membership management
-- GitHub documentation
 
 ## Administrative Workflow
 ### Step 1: Review the User Account and Block Sign-In
