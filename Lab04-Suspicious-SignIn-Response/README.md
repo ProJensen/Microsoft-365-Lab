@@ -26,7 +26,6 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - Identify suspicious or unusual sign-in details
 - Take initial response actions to help protect the account
 - Understand the importance of account monitoring and rapid response
-- Practice documentation using a real-world identity security scenario
 
 ## Tools and Services Used
 - Microsoft Entra Admin Center
@@ -34,7 +33,6 @@ As the IT administrator, I need to review the user’s sign-in activity, check f
 - User account management
 - Password reset
 - Revoke sessions
-- GitHub documentation
 
 ## Administrative Workflow
 ### Step 1: Review the User’s Sign-In Activity
