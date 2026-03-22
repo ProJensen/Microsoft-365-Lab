@@ -26,14 +26,12 @@ As the IT administrator, I need to create a Conditional Access policy that requi
 - Create a Conditional Access policy for MFA enforcement
 - Apply the policy to a test user
 - Verify that MFA is required during sign-in
-- Practice documentation using a real-world identity security scenario
 
 ## Tools and Services Used
 - Microsoft Entra Admin Center
 - Conditional Access
 - Microsoft Entra ID P1
 - Microsoft Authenticator
-- GitHub documentation
 
 ## Administrative Workflow
 ### Step 1: Review Conditional Access Availability
