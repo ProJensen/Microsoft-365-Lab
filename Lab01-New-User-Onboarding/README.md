@@ -26,8 +26,7 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Assign the appropriate license
 - Add the user to the correct group
 - Configure authentication readiness for secure account access
-- Understand the basic user onboarding workflow
-- Practice documentation using a real-world admin scenario
+- Understand the user onboarding workflow
 
 ## Tools and Services Used
 - Microsoft 365 Admin Center
@@ -35,7 +34,6 @@ As the IT administrator, I need to prepare the account and make sure the user ca
 - Microsoft 365 user management
 - License assignment
 - Multi-Factor Authentication (MFA)
-- GitHub documentation
 
 > Note: This is a simulated lab project created for learning and portfolio purposes.
 
