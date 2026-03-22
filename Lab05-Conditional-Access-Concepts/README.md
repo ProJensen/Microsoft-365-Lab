@@ -26,13 +26,11 @@ As the IT administrator, I need to review Conditional Access options, create a p
 - Create a Conditional Access policy that requires a compliant device
 - Apply the policy to a test user
 - Understand the relationship between Conditional Access and device compliance
-- Practice documentation using a real-world identity and access control scenario
 
 ## Tools and Services Used
 - Microsoft Entra Admin Center
 - Conditional Access
 - Microsoft Entra ID P1
-- GitHub documentation
 
 ## Administrative Workflow
 ### Step 1: Review Conditional Access Options for Device Compliance
