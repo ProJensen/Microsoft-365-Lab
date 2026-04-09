@@ -2,18 +2,6 @@
 
 A hands-on lab portfolio focused on Microsoft 365 administration, identity, security, and user management.
 
-## Table of Contents
-- [Overview](#overview)
-- [Goals](#goals)
-- [Skills Covered](#skills-covered)
-- [Lab Projects](#lab-projects)
-- [Lab Environment](#lab-environment)
-- [Tools and Technologies](#tools-and-technologies)
-- [Key Learning Areas](#key-learning-areas)
-- [Repository Structure](#repository-structure)
-- [Progress Tracker](#progress-tracker)
-- [Author](#author)
-
 ## Overview
 This repository documents my Microsoft 365 administration lab projects.
 
@@ -109,16 +97,6 @@ Microsoft-365-Lab/
     ├── README.md
     └── screenshots/
 ```
-
-## Progress Tracker
-- [x] Complete Lab 01 - New User Onboarding
-- [x] Complete Lab 02 - User Offboarding
-- [x] Complete Lab 03 - MFA Enforcement
-- [x] Complete Lab 04 - Suspicious Sign-in Response
-- [x] Complete Lab 05 - Conditional Access Concepts
-- [ ] Complete Lab 06 - Teams and SharePoint Setup
-- [ ] Complete Lab 07 - 
-- [ ] Complete Lab 08 - 
 
 ## Author
 **Jenhon Sze**
