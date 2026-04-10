@@ -38,3 +38,9 @@ Example Team names:
 - HR Team
 - Operations Team
 - Internal Support Team
+
+### Step 2: Add the user to the Team
+- Open the Team settings
+- Add the user as a **Member**
+- Confirm that the membership change is saved
+- Verify that the user now appears in the Team member list
