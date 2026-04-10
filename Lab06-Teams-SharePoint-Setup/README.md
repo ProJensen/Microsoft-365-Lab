@@ -51,6 +51,6 @@ Example Team names:
 ### Step 3: Review channels and collaboration structure
 - Confirm the default **General** channel exists
 - Create an additional **Standard** channel named **Shared Documents**
-- Add a short description for the channel
-- Review which users can access standard channels
-- Confirm that Team members can view the available channels
+- Verify that standard channels are automatically available to all Team members
+- Confirm that users added to the **Operations Team** can access both the **General** and **Shared Documents** channels without separate channel membership
+
