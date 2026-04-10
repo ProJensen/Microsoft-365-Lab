@@ -47,3 +47,10 @@ Example Team names:
 - Add the user as a **Member**
 - Confirm that the membership change is saved
 - Verify that the user now appears in the Team member list
+
+### Step 3: Review channels and collaboration structure
+- Confirm the default **General** channel exists
+- Create an additional **Standard** channel named **Shared Documents**
+- Add a short description for the channel
+- Review which users can access standard channels
+- Confirm that Team members can view the available channels
