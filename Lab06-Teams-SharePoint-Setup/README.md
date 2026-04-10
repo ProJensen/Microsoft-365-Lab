@@ -26,3 +26,9 @@ As the administrator, the task is to create or manage the Team, assign the corre
 - SharePoint Online
 - Microsoft Entra Admin Center
 
+## Administrative Workflow
+
+### Step 1: Review the user requirement
+- Identify which Team the user needs access to
+- Confirm whether the user should be added as an **Owner** or **Member**
+- Verify that the user has an active Microsoft 365 license and can sign in
