@@ -30,7 +30,7 @@ As the administrator, the task is to create or manage the Team, assign the corre
 
 ### Step 1: Create or review the Team
 - Open **Microsoft Teams**
-- Create a new Team if needed, or use an existing Team for the lab
+- Create a new Team
 - Assign a clear Team name based on a department or business use case
 - Add at least one owner account for administration
 
