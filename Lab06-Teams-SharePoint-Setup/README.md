@@ -1,4 +1,4 @@
-# Lab06 – Teams and SharePoint Access Setup
+# Lab 06 – Teams and SharePoint Access Setup
 
 ## Overview
 This lab simulates a common Microsoft 365 administration task where a user needs access to a Microsoft Team and its connected SharePoint files.
