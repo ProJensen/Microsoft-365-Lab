@@ -5,4 +5,9 @@ This lab simulates a common Microsoft 365 administration task where a user needs
 
 The goal is to practice collaboration administration, membership management, permission verification, and basic troubleshooting in a Microsoft 365 environment.
 
-This scenario reflects a real-world IT support task where a user reports that they cannot access a Team, channel, or shared documents.
+## Scenario
+A new staff member needs access to a department Team in Microsoft Teams in order to communicate with the group and work with shared files stored in SharePoint.
+
+As the administrator, the task is to create or manage the Team, assign the correct membership, verify access to shared files, and confirm that the user can collaborate successfully.
+
+This lab also includes a basic troubleshooting workflow for permission-related access issues.
