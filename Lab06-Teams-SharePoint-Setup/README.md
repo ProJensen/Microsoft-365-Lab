@@ -28,7 +28,8 @@ As the administrator, the task is to create or manage the Team, assign the corre
 
 ## Administrative Workflow
 
-### Step 1: Review the user requirement
-- Identify which Team the user needs access to
-- Confirm whether the user should be added as an **Owner** or **Member**
-- Verify that the user has an active Microsoft 365 license and can sign in
+### Step 4: Create or review the Team
+- Open **Microsoft Teams**
+- Create a new Team if needed, or use an existing Team for the lab
+- Assign a clear Team name based on a department or business use case
+- Add at least one owner account for administration
