@@ -28,7 +28,7 @@ As the administrator, the task is to create or manage the Team, assign the corre
 
 ## Administrative Workflow
 
-### Step 4: Create or review the Team
+### Step 1: Create or review the Team
 - Open **Microsoft Teams**
 - Create a new Team if needed, or use an existing Team for the lab
 - Assign a clear Team name based on a department or business use case
