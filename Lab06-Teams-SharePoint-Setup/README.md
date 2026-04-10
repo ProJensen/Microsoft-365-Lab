@@ -18,3 +18,11 @@ As the administrator, the task is to create or manage the Team, assign the corre
 - Upload and share files through the Team
 - Confirm user access to shared documents
 - Troubleshoot common Teams and SharePoint permission issues
+
+## Tools and Services Used
+- Microsoft Teams Admin Center
+- Microsoft Teams
+- Microsoft 365 Admin Center
+- SharePoint Online
+- Microsoft Entra Admin Center
+
