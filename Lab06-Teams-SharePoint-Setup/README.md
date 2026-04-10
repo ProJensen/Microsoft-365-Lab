@@ -10,4 +10,11 @@ A new staff member needs access to a department Team in Microsoft Teams in order
 
 As the administrator, the task is to create or manage the Team, assign the correct membership, verify access to shared files, and confirm that the user can collaborate successfully.
 
-This lab also includes a basic troubleshooting workflow for permission-related access issues.
+## Objectives
+- Create or manage a Microsoft Team for collaboration
+- Add users to the Team with the correct role
+- Verify Team membership and channel access
+- Access the connected SharePoint site
+- Upload and share files through the Team
+- Confirm user access to shared documents
+- Troubleshoot common Teams and SharePoint permission issues
