@@ -54,3 +54,9 @@ Example Team names:
 - Verify that standard channels are automatically available to all Team members
 - Confirm that users added to the **Operations Team** can access both the **General** and **Shared Documents** channels without separate channel membership
 
+### Step 4: Access the connected SharePoint site
+- Open the **Shared Documents** channel in **Operations Team**
+- Select the **Shared** tab to review the channel document area
+- Open the menu options and choose **Open in SharePoint**
+- Confirm that the Team is linked to a SharePoint site
+- Review the document library used for Team file storage
