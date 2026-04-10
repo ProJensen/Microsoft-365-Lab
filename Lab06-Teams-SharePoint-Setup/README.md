@@ -33,3 +33,8 @@ As the administrator, the task is to create or manage the Team, assign the corre
 - Create a new Team if needed, or use an existing Team for the lab
 - Assign a clear Team name based on a department or business use case
 - Add at least one owner account for administration
+
+Example Team names:
+- HR Team
+- Operations Team
+- Internal Support Team
