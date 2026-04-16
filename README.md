@@ -34,9 +34,6 @@ These labs are designed to strengthen my hands-on understanding of Microsoft 365
 | 03 | [MFA Enforcement with Conditional Access](./Lab03-MFA-Enforcement/) | Identity security / MFA | Completed |
 | 04 | [Suspicious Sign-in Response Workflow](./Lab04-Suspicious-SignIn-Response/) | Security response | Completed |
 | 05 | [Conditional Access and Device Compliance Concepts](./Lab05-Conditional-Access-Concepts/) | Access control / compliance | Completed |
-| 06 | Teams and SharePoint Access Setup | Collaboration / permissions | Planned |
-| 07 | Outlook and Shared Mailbox Support | Mail / user support | Planned |
-| 08 | OneDrive File Sharing Troubleshooting | Storage / sharing / support | Planned |
 
 ## Lab Environment
 This portfolio is based on a simulated Microsoft 365 administration environment created for learning and portfolio development purposes.
@@ -84,18 +81,10 @@ Microsoft-365-Lab/
 ├── Lab04-Suspicious-SignIn-Response/
 │   ├── README.md
 │   └── screenshots/
-├── Lab05-Conditional-Access-Concepts/
-│   ├── README.md
-│   └── screenshots/
-├── Lab06-Teams-SharePoint-Setup/
-│   ├── README.md
-│   └── screenshots/
-├── Lab07-
-│   ├── README.md
-│   └── screenshots/
-└── Lab08-
+└── Lab05-Conditional-Access-Concepts/
     ├── README.md
     └── screenshots/
+
 ```
 
 ## Author
